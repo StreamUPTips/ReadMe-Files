@@ -16,8 +16,6 @@
 - [Inter font family](https://rsms.me/inter/)
 
 ### Installation Instructions
-Below you'll find the instalation instructions for the different bots that are supported by this product.
-
 Please, make sure you have all the prerequisites installed before performing the product installation itself.
 Be sure to have OBS closed when installing these plugins.
 If you need help installing any of these google: "`Andilippi plugin name`" there will be a video to help you.
