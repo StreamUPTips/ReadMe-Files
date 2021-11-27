@@ -12,7 +12,6 @@
 - [StreamUP - OBS Plugin](/plugin)
 - [Move Transition - OBS Plugin](https://obsproject.com/forum/resources/move-transition.913/)
 - [ShaderFilter - OBS Plugin](https://obsproject.com/forum/resources/obs-shaderfilter.775/)
-- [StreamFX - OBS Plugin](https://obsproject.com/forum/resources/streamfx-for-obs-studio.578/)
 - [Streamer.bot](https://streamer.bot)
 - [Inter font family](https://rsms.me/inter/)
 
