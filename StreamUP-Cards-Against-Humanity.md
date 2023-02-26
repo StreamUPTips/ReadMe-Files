@@ -7,12 +7,10 @@
 - TONS OF FUN, OFFENSIVE¹ AND AWKARDNESS
 
 ### Prerequisites
-- [OBS Studio](https://obsproject.com/)
-- [OBS Websocket - OBS Plugin](https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/)
+- [OBS Studio 28+](https://obsproject.com/)
 - [StreamUP - OBS Plugin](/plugin)
-- [Move Transition - OBS Plugin](https://obsproject.com/forum/resources/move-transition.913/)
-- [ShaderFilter - OBS Plugin](https://obsproject.com/forum/resources/obs-shaderfilter.775/)
-- [Streamer.bot](https://streamer.bot)
+- [StreamUP Recommended Plugins](https://streamup.tips/product/plugin-installer)
+- [Streamer.bot](https://streamer.bot) or [SAMMI](https://sammi.solutions)
 - [Inter font family](https://rsms.me/inter/)
 
 ### Installation Instructions
