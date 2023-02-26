@@ -17,7 +17,7 @@ Please, make sure you have all the prerequisites installed before performing the
 Be sure to have OBS closed when installing these plugins.
 If you need help installing any of these google: "`Andilippi plugin name`" there will be a video to help you.
 
-### Streamer.bot instructions
+## Streamer.bot instructions
 
 1. Unpack the downloaded zip file to a folder of your choosing. There should be a folder created called 'StreamUP - Cards Against Humanity'. Be sure not to move it after installing this product!
 2. Open OBS Studio, press 'Tools' from the top menu bar. Press 'StreamUP'.
