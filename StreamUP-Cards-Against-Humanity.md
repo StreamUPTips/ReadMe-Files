@@ -8,7 +8,6 @@
 
 ### Prerequisites
 - [OBS Studio 28+](https://obsproject.com/)
-- [StreamUP - OBS Plugin](/plugin)
 - [StreamUP Recommended Plugins](https://streamup.tips/product/plugin-installer)
 - [Streamer.bot](https://streamer.bot) or [SAMMI](https://sammi.solutions)
 - [Inter font family](https://rsms.me/inter/)
