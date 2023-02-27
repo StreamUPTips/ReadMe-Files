@@ -13,7 +13,7 @@
 - [Inter font family](https://rsms.me/inter/)
 
 ## Installation Instructions
-Please, make sure you have all the prerequisites installed before performing the product installation itself.
+Please, make sure you have all the prerequisites installed before performing the product installation itself.  
 Be sure to have OBS closed when installing these plugins.
 
 ## SAMMI instructions
