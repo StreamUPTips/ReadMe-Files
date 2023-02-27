@@ -12,10 +12,9 @@
 - [Streamer.bot](https://streamer.bot) or [SAMMI](https://sammi.solutions)
 - [Inter font family](https://rsms.me/inter/)
 
-### Installation Instructions
+## Installation Instructions
 Please, make sure you have all the prerequisites installed before performing the product installation itself.
 Be sure to have OBS closed when installing these plugins.
-If you need help installing any of these google: "`Andilippi plugin name`" there will be a video to help you.
 
 ## SAMMI instructions
 1. Unpack the downloaded zip file to a folder of your choosing. There should be a folder created called 'StreamUP - Cards Against Humanity'. Be sure not to move it after installing this product!
