@@ -1,6 +1,11 @@
 # StreamUP Product Install Guide
 
-### Prerequisites
+## IMPORTANT NOTE
+If you are updating your StreamUP products from versions that were built for the old version of Streamer.Bot (before 0.2.0). You will need to remove the scenes in OBS and reinstall the new ones as a lot of changes have been made to improve performance etc.
+
+This will mean you will lose any personal changes / customisation.
+
+## Prerequisites
 - [OBS Studio v28+](https://obsproject.com/)
 - [Streamer.bot v0.2.0+](https://streamer.bot)
 
