@@ -1,13 +1,21 @@
-# StreamUP Product Install Guide
+<h1 align="center">
+    StreamUP Product Install Guide
+</h1>
 
-## IMPORTANT NOTE
-If you are updating your StreamUP products from versions that were built for the old version of Streamer.Bot (before 0.2.0). You will need to remove the scenes in OBS and reinstall the new ones as a lot of changes have been made to improve performance etc.
+<h3 align="center">
+    <a href="https://obsproject.com">
+        <img alt="supports OBS Studio version 28 and above" src="https://img.shields.io/badge/OBS Studio-28%2B-FFFFFF?style=for-the-badge&labelColor=1e1a1d">
+    </a>
+    <a href="https://streamer.bot">
+        <img alt="supports Streamer.Bot version 0.2.0 and above" src="https://img.shields.io/badge/Streamer.Bot-v0.2.0+-%23FFFFFF?style=for-the-badge&labelColor=9038e8">
+    </a>
+    <img alt="supports Windows" src="https://img.shields.io/badge/Windows-%23FFFFFF?style=for-the-badge&logo=windows&labelColor=00a2ed">
+</h3>
 
-This will mean you will lose any personal changes / customisation.
-
-## Prerequisites
-- [OBS Studio v28+](https://obsproject.com/)
-- [Streamer.bot v0.2.0+](https://streamer.bot)
+> <h4>Important</h4>
+> If you are updating your StreamUP products from versions that were built for the old version of Streamer.Bot (before 0.2.0). You will need to remove the scenes in OBS and reinstall the new ones as a lot of changes have been made to improve performance etc.
+> 
+> This will mean you will lose any personal changes / customisation.
 
 ## OBS Setup
 1. Download & install the [StreamUP OBS Plugin](https://ko-fi.com/s/0b5bd4536d).
