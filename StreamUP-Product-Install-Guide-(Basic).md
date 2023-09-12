@@ -44,6 +44,5 @@
 
 1. In Streamer.Bot press <kbd><b>Import</b></kbd> in the top left
 1. Navigate to the <kbd><b>3 - BOT INSTALL\STREAMER.BOT</b></kbd> folder. Drag & drop the <kbd><b>.sb</b></kbd> into the <kbd><b>Import String</kbd></b> field. Press <kbd><b>Import</b></kbd>
-1. Open the imported products settings Action then right click the <kbd><b>Test</b></kbd> trigger above the Sub-Actions menu
-1. Adjust the settings to your liking and press 'OK'
+1. Follow the product specific instructions to complete installation
 
