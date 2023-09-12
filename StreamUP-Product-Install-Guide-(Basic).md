@@ -48,12 +48,13 @@ Configure the following settings then press <kbd><b>Start Server</b></kbd>
 > Port - 8080<br>
 > Endpoint - /
 
-2. Press <kbd><b>Import</b></kbd> in the top left
-3. Navigate to the <kbd><b>3 - BOT INSTALL\STREAMER.BOT</b></kbd> folder. Drag & drop the <kbd><b>.sb</b></kbd> into the <kbd><b>Import String</kbd></b> field. Press <kbd><b>Import</b></kbd>
+2. Navigate to the tab <kbd><b>Stream Apps → OBS</b></kbd> and make sure your OBS is connected via websocket 5.x. Make a note of the connection number (by default this is <kbd><b>0</b></kbd>)
+3. Press <kbd><b>Import</b></kbd> in the top left
+4. Navigate to the <kbd><b>3 - BOT INSTALL\STREAMER.BOT</b></kbd> folder. Drag & drop the <kbd><b>.sb</b></kbd> into the <kbd><b>Import String</kbd></b> field. Press <kbd><b>Import</b></kbd>
 > <h4>Important Note</h4>
 > If you cannot drag and drop the file you can open it using <kbd><b>Notepad</b></kbd><br>
 > Select all of the text <kbd>CTRL + A</kbd> and copy it <kbd>CTRL + C</kbd><br>
 > Paste the copied text into the <kbd><b>Import String</b></kbd> box inside of Streamer.Bot
 
-4. Follow the product specific instructions to complete installation
+5. Follow the product specific instructions to complete installation
 
