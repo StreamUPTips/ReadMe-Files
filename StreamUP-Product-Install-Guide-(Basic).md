@@ -21,13 +21,12 @@
         OBS Setup
 </h1>
 
-1. <a href="https://ko-fi.com/s/0b5bd4536d">
-        <img alt="StreamUP OBS plugin download link" src="https://img.shields.io/badge/Download-StreamUP_OBS_Plugin-%235df4ff?labelColor=%23fc6caf"></a>
+1. Download & install the [StreamUP OBS plugin](https://ko-fi.com/s/0b5bd4536d)
     1. Extract the downloaded .zip file
     1. Copy the contents of the <kbd><b>Windows</b></kbd> folder into your <kbd><b>obs-studio</b></kbd> folder. The file path is usually: <kbd><b>C:\Program Files\obs-studio</b></kbd>
 1. Open OBS then on the top menu bar, select <kbd><b>Tools -> StreamUP -> Check Product Requirements</b></kbd>. If you have any OBS plugins that need installing or updating they will be displayed here.
     1. You can then do one of the following:
-         1. <img alt="StreamUP Pluginstaller download link" src="https://img.shields.io/badge/Download-StreamUP_Pluginstaller-%235df4ff?labelColor=%23fc6caf"> and follow the instructions here: <a href="https://youtu.be/6zMXZn4csI8"><img alt="Static Badge" src="https://img.shields.io/badge/StreamUP%20Pluginstaller%20Tutorial-ffffff?logo=Youtube&labelColor=red"></a>
+         1. Download the [StreamUP Pluginstaller](https://streamup.tips/product/plugin-installer) and follow the [YouTube tutorial](https://youtu.be/6zMXZn4csI8)
          1. Click on each plugin. It will automatically use your web browser to download the selected plugin
     1. Install all the plugins downloaded into OBS by copying the files into the <kbd><b>obs-studio</b></kbd> folder just like you did for the StreamUP OBS plugin
 
