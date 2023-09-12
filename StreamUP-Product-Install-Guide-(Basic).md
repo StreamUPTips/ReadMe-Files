@@ -4,12 +4,12 @@
 
 <h3 align="center">
     <a href="https://obsproject.com">
-        <img alt="supports OBS Studio version 28 and above" src="https://img.shields.io/badge/OBS Studio-28%2B-FFFFFF?style=for-the-badge&labelColor=1e1a1d">
+        <img alt="Supports OBS Studio version 28 and above" src="https://img.shields.io/badge/OBS Studio-28%2B-FFFFFF?style=for-the-badge&labelColor=1e1a1d">
     </a>
     <a href="https://streamer.bot">
-        <img alt="supports Streamer.Bot version 0.2.0 and above" src="https://img.shields.io/badge/Streamer.Bot-v0.2.0+-%23FFFFFF?style=for-the-badge&labelColor=9038e8">
+        <img alt="Supports Streamer.Bot version 0.2.0 and above" src="https://img.shields.io/badge/Streamer.Bot-v0.2.0+-%23FFFFFF?style=for-the-badge&labelColor=9038e8">
     </a>
-    <img alt="supports Windows" src="https://img.shields.io/badge/Windows-%23FFFFFF?style=for-the-badge&logo=windows&labelColor=00a2ed">
+    <img alt="Supports Windows" src="https://img.shields.io/badge/Windows-%23FFFFFF?style=for-the-badge&logo=windows&labelColor=00a2ed">
 </h3>
 
 > <h4>Important</h4>
@@ -17,25 +17,34 @@
 > 
 > This will mean you will lose any personal changes / customisation.
 
-## OBS Setup
-1. Download & install the [StreamUP OBS Plugin](https://ko-fi.com/s/0b5bd4536d).
-    1. Extract the .zip file.
-    1. Copy the contents of the 'Windows' folder into your 'obs-studio' folder. This is usually 'C:\Program Files\obs-studio'.
-1. Open OBS then select 'Tools\StreamUP\Check Product Requirements'.
-    1. If you have any plugins you need to install they will be displayed here.
-    1. Do either of the following:
-         1. Download the [StreamUP Pluginstaller](https://ko-fi.com/s/d3755e338e) and follow the instructions in [this YouTube video](https://youtu.be/6zMXZn4csI8).
-         1. Click on each plugin. It will automatically use your browser to download the selected plugin.
-    1. Install all the plugins into OBS by copying the files into the 'obs-studio' folder just like you did for the StreamUP OBS plugin.
+<h1 align="center">
+        OBS Setup
+</h1>
 
-## Installing A Product Into OBS
-1. Navigate to the StreamUP product you wish to install. Download & Install any files in the '1 - DOWNLOAD AND INSTALL THESE FIRST' folder.
-1. In OBS select 'Tools\StreamUP\Install a Product'.
-1. Navigate to the '2 - OBS INSTALL' folder and open the '.StreamUP' file. This will create a new scene/s in OBS.
+1. <a href="https://ko-fi.com/s/0b5bd4536d">
+        <img alt="StreamUP OBS plugin download link" src="https://img.shields.io/badge/Download-StreamUP_OBS_Plugin-%235df4ff?labelColor=%23fc6caf"></a>
+    1. Extract the downloaded .zip file
+    1. Copy the contents of the <kbd><b>Windows</b></kbd> folder into your <kbd><b>obs-studio</b></kbd> folder. The file path is usually: <kbd><b>C:\Program Files\obs-studio</b></kbd>
+1. Open OBS then on the top menu bar, select <kbd><b>Tools -> StreamUP -> Check Product Requirements</b></kbd>. If you have any OBS plugins that need installing or updating they will be displayed here.
+    1. You can then do one of the following:
+         1. <img alt="StreamUP Pluginstaller download link" src="https://img.shields.io/badge/Download-StreamUP_Pluginstaller-%235df4ff?labelColor=%23fc6caf"> and follow the instructions here: <a href="https://youtu.be/6zMXZn4csI8"><img alt="Static Badge" src="https://img.shields.io/badge/StreamUP%20Pluginstaller%20Tutorial-ffffff?logo=Youtube&labelColor=red"></a>
+         1. Click on each plugin. It will automatically use your web browser to download the selected plugin
+    1. Install all the plugins downloaded into OBS by copying the files into the <kbd><b>obs-studio</b></kbd> folder just like you did for the StreamUP OBS plugin
 
-## Installing A Product Into Streamer.Bot
-1. In Streamer.Bot press Import in the top left.
-1. Navigate to the '3 - BOT INSTALL\STREAMER.BOT'. Drag & drop the '.sb' into the 'Import String' field. Press 'Import'.
-1. Open the products settings Action then run the 'Test' trigger above the Sub-Actions menu.
+<h1 align="center">
+        Installing A Product Into OBS
+</h1>
+
+1. Navigate to the StreamUP product you wish to install. Download & Install any files in the <kbd><b>1 - DOWNLOAD AND INSTALL THESE FIRST</b></kbd> folder
+1. In OBS, on the top menu bar, select <kbd><b>Tools -> StreamUP -> Install a Product</b></kbd>
+1. Navigate to the <kbd><b>2 - OBS INSTALL</b></kbd> folder and open the <kbd><b>.StreamUP</b></kbd> file. This will create a new scene/s in OBS
+
+<h1 align="center">
+        Installing A Product Into Streamer.Bot
+</h1>
+
+1. In Streamer.Bot press <kbd><b>Import</b></kbd> in the top left
+1. Navigate to the <kbd><b>3 - BOT INSTALL\STREAMER.BOT</b></kbd> folder. Drag & drop the <kbd><b>.sb</b></kbd> into the <kbd><b>Import String</kbd></b> field. Press <kbd><b>Import</b></kbd>
+1. Open the imported products settings Action then right click the <kbd><b>Test</b></kbd> trigger above the Sub-Actions menu.
 1. Adjust the settings to your liking and press 'OK'.
 
