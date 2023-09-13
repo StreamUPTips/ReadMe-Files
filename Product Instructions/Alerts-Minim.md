@@ -43,7 +43,6 @@
 1. Go to the scene you wish to add the alerts to. Add a new source and select <kbd><b>Scene</b></kbd>
 1. Select <kbd><b>Add Existing</b></kbd> and choose <kbd><b>StreamUP Alerts • Minim</b></kbd> then press <kbd><b>OK</b></kbd>
 1. Adjust the size and positioning of the alerts then lock the source
-1. In the Scene list, click on the <kbd><b>StreamUP Alerts • Minim</b></kbd> scene and hide all of the sources
 
 <h1 align="center">
         Streamer.Bot Setup
