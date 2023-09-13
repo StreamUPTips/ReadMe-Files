@@ -1,0 +1,1 @@
+>   Make sure you have installed the <kbd><b>OpenType font file (.otf)</b></kbd> of the <kbd><b></b>Reactor7 Font</b></kbd> then delete the <kbd><b>StreamUP Alerts • FFVII</b></kbd> scene in OBS. Close and reopen OBS. Reinstall the <kbd><b>.StreamUP</b></kbd> file
