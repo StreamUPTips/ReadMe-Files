@@ -51,6 +51,8 @@
 In the <kbd><b>Triggers</b></kbd> window on the right side, right click a trigger and press <kbd><b>Test</b></kbd><br>
 Check OBS to see the alerts in action
 
+---
+
 <br>
 
 <h1 align="center">
@@ -58,7 +60,27 @@ Check OBS to see the alerts in action
 </h1>
 
 <details>
-  <summary><b>Q:</b> My alerts look really strange and the text doesn’t fit like in the instruction images</summary>
+  <summary><b>Q:</b> "My alerts look really strange and the text doesn’t fit like in the instruction images"</summary>
   
   > Make sure you have installed the <kbd><b>OpenType font file (.otf)</b></kbd> of the <kbd><b></b>Reactor7 Font</b></kbd> then delete the <kbd><b>StreamUP Alerts • FFVII</b></kbd> scene in OBS. Close and reopen OBS. Reinstall the <kbd><b>.StreamUP</b></kbd> file
+</details>
+
+<details>
+  <summary><b>Q:</b> "The background of the alerts are just blank. There is no colour in them"</summary>
+  
+  > You are missing an OBS plugin or they are all not up-to-date. You can check in OBS by going to the top menu bar and selecting <kbd><b>Tools -> StreamUP -> Check Product Requirements</b></kbd>. If you have any OBS plugins that need installing or updating they will be displayed here. You can then do one of the following:
+> 1. Download the [StreamUP Pluginstaller](https://streamup.tips/product/plugin-installer) and follow the [YouTube tutorial](https://youtu.be/6zMXZn4csI8)
+> 2. Click on each plugin. It will automatically use your web browser to download the selected plugin
+> 
+> Install all the plugins downloaded into OBS
+</details>
+
+<details>
+  <summary><b>Q:</b> "The number in the <kbd><b>Amount</b></kbd> box is not appearing or it isn’t counting up"</summary>
+  
+  > You are missing an OBS plugin or they are all not up-to-date. You can check in OBS by going to the top menu bar and selecting <kbd><b>Tools -> StreamUP -> Check Product Requirements</b></kbd>. If you have any OBS plugins that need installing or updating they will be displayed here. You can then do one of the following:
+> 1. Download the [StreamUP Pluginstaller](https://streamup.tips/product/plugin-installer) and follow the [YouTube tutorial](https://youtu.be/6zMXZn4csI8)
+> 2. Click on each plugin. It will automatically use your web browser to download the selected plugin
+> 
+> Install all the plugins downloaded into OBS
 </details>
