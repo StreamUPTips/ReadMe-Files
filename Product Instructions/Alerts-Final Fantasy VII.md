@@ -6,7 +6,7 @@
 
 <h4 align="center">
   <a href="https://andistonemedia.mystl.ink">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Created%20by%20Andi%20Stone%20(Andilippi)-white?style=for-the-badge">
+    <img alt="A link to all of Andi's links" src="https://img.shields.io/badge/Created%20by%20Andi%20Stone%20(Andilippi)-white?style=for-the-badge">
   </a>
 </h4>
 
@@ -30,6 +30,13 @@
 <br>
 
 <h1 align="center">
+        Initial Setup
+</h1>
+
+1. Download & install the <kbd><b><a href="https://www.dafont.com/reactor7.font">Reactor 7 font</b></kbd><br>
+Make sure to only install the <kbd><b>OpenType font file (.otf)</b></kbd>
+
+<h1 align="center">
         OBS Setup
 </h1>
 <h3>Adding the Alerts to Other Scenes</h3>
@@ -37,7 +44,7 @@
 1. Go to the scene you wish to add the alerts to. Add a new source and select <kbd><b>Scene</b></kbd>
 1. Select <kbd><b>Add Existing</b></kbd> and choose <kbd><b>StreamUP Alerts • FFVII</b></kbd> then press <kbd><b>OK</b></kbd>
 1. Adjust the size and positioning of the alerts then lock the source
-1. In the Scene list, click on the <kbd><b>StreamUP Alerts • FFVII</b></kbd> scene and hide all of the source groups. 
+1. In the Scene list, click on the <kbd><b>StreamUP Alerts • FFVII</b></kbd> scene and hide all of the source groups
 
 <h1 align="center">
         Streamer.Bot Setup
@@ -62,7 +69,7 @@ Check OBS to see the alerts in action
 <details>
   <summary><b>Q:</b> "My alerts look really strange and the text doesn’t fit like in the instruction images"</summary>
   
-  > Make sure you have installed the <kbd><b>OpenType font file (.otf)</b></kbd> of the <kbd><b></b>Reactor7 Font</b></kbd> then delete the <kbd><b>StreamUP Alerts • FFVII</b></kbd> scene in OBS. Close and reopen OBS. Reinstall the <kbd><b>.StreamUP</b></kbd> file
+  > Make sure you have installed the <kbd><b>OpenType font file (.otf)</b></kbd> of the <kbd><b>Reactor7 Font</b></kbd> then delete the <kbd><b>StreamUP Alerts • FFVII</b></kbd> scene in OBS. Close and reopen OBS. Reinstall the <kbd><b>.StreamUP</b></kbd> file
 </details>
 
 <details>
@@ -84,3 +91,18 @@ Check OBS to see the alerts in action
 > 
 > Install all the plugins downloaded into OBS
 </details>
+
+<br>
+
+*For any further questions or support, join the [StreamUP Discord server](https://discord.com/invite/RnDKRaVCEu?)*
+
+---
+
+<br>
+
+<h4 align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/A%20StreamUP%20Product-%23fc6caf?style=for-the-badge"><br>
+  <a href="https://andistonemedia.mystl.ink">
+    <img alt="A link to all of Andi's links" src="https://img.shields.io/badge/Created%20by%20Andi%20Stone%20(Andilippi)-white?style=for-the-badge">
+  </a>  
+</h4>
