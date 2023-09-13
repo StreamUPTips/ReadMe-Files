@@ -59,5 +59,5 @@ Check OBS to see the alerts in action
 
 <details>
   <summary><b>Q:</b> My alerts look really strange and the text doesn’t fit like in the instruction images</summary>
->   Make sure you have installed the <kbd><b>OpenType font file (.otf)</b></kbd> of the <kbd><b></b>Reactor7 Font</b></kbd> then delete the <kbd><b>StreamUP Alerts • FFVII</b></kbd> scene in OBS. Close and reopen OBS. Reinstall the <kbd><b>.StreamUP</b></kbd> file
+> Make sure you have installed the <kbd><b>OpenType font file (.otf)</b></kbd> of the <kbd><b></b>Reactor7 Font</b></kbd> then delete the <kbd><b>StreamUP Alerts • FFVII</b></kbd> scene in OBS. Close and reopen OBS. Reinstall the <kbd><b>.StreamUP</b></kbd> file
 </details>
