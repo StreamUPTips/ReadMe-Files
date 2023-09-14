@@ -8,11 +8,7 @@
   <a href="https://andistonemedia.mystl.ink">
     <img alt="A link to all of Andi's links" src="https://img.shields.io/badge/Created%20by%20Andi%20Stone%20(Andilippi)-white?style=for-the-badge">
   </a>
-</h4>
-
-<br>
-
-<h4 align="center">
+  <br><br>
     <a href="https://obsproject.com">
         <img alt="Supports OBS Studio version 28 and above" src="https://img.shields.io/badge/OBS Studio-28%2B-FFFFFF?style=for-the-badge&labelColor=1e1a1d">
     </a>
@@ -38,6 +34,8 @@
 1. Select <kbd><b>Add Existing</b></kbd> and choose <kbd><b>StreamUP Alerts • Xbox One Achievement</b></kbd> then press <kbd><b>OK</b></kbd>
 1. Adjust the size and positioning of the alerts then lock the source
 
+<br>
+
 <h1 align="center">
         Streamer.Bot Setup
 </h1>
@@ -49,8 +47,6 @@
 1. To test everything is working okay, head to the <kbd><b>Actions</b></kbd> tab and select <kbd><b>Xbox One Achievement Alerts • Main Action</b></kbd><br>
 In the <kbd><b>Triggers</b></kbd> window on the right side, right click a trigger and press <kbd><b>Test</b></kbd><br>
 Check OBS to see the alerts in action
-
----
 
 <br>
 

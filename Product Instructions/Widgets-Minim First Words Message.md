@@ -1,5 +1,5 @@
 <h4 align="center">
-  Final Fantasy VIII Inspired Alerts Install Guide
+  Minim First Words Message Install Guide
   
   *Insert Image Here*
 </h4>
@@ -26,20 +26,12 @@
 <br>
 
 <h1 align="center">
-        Initial Setup
-</h1>
-
-1. Download & install the <kbd><b><a href="https://fontstruct.com/fontstructions/show/904880/seed_computer">SeeD Computer font</b></kbd></a><br>
-
-<br>
-
-<h1 align="center">
         OBS Setup
 </h1>
 <h3>Adding the Alerts to Other Scenes</h3>
 
 1. Go to the scene you wish to add the alerts to. Add a new source and select <kbd><b>Scene</b></kbd>
-1. Select <kbd><b>Add Existing</b></kbd> and choose <kbd><b>StreamUP Alerts • FFVIII</b></kbd> then press <kbd><b>OK</b></kbd>
+1. Select <kbd><b>Add Existing</b></kbd> and choose <kbd><b>StreamUP Alerts • Xbox One Achievement</b></kbd> then press <kbd><b>OK</b></kbd>
 1. Adjust the size and positioning of the alerts then lock the source
 
 <br>
@@ -48,11 +40,11 @@
         Streamer.Bot Setup
 </h1>
 
-1. Select the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>FFVIII Alerts • Settings</b></kbd>
+1. Select the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>Xbox One Achievement Alerts • Settings</b></kbd>
 1. Under the <kbd><b>Triggers</b></kbd> window on the left, right click the top trigger and press <kbd><b>Test</b></kbd>
 1. Configure the products settings and follow any prompts on screen. Make sure the <kbd><b>OBS Connection Number</b></kbd> is set
 1. Press <kbd><b>Save</b></kbd> at the bottom of the window
-1. To test everything is working okay, head to the <kbd><b>Actions</b></kbd> tab and select <kbd><b>FFVIII Alerts • Main Action</b></kbd><br>
+1. To test everything is working okay, head to the <kbd><b>Actions</b></kbd> tab and select <kbd><b>Xbox One Achievement Alerts • Main Action</b></kbd><br>
 In the <kbd><b>Triggers</b></kbd> window on the right side, right click a trigger and press <kbd><b>Test</b></kbd><br>
 Check OBS to see the alerts in action
 
@@ -61,28 +53,6 @@ Check OBS to see the alerts in action
 <h1 align="center">
         Frequently Asked Questions
 </h1>
-
-<details>
-  <summary><b>Q:</b> "The background of the alerts are just blank. There is no colour in them"</summary>
-  
-  > You are missing an OBS plugin or they are all not up-to-date. You can check in OBS by going to the top menu bar and selecting <kbd><b>Tools -> StreamUP -> Check Product Requirements</b></kbd>. If you have any OBS plugins that need installing or updating they will be displayed here. You can then do one of the following:
-> 1. Download the [StreamUP Pluginstaller](https://streamup.tips/product/plugin-installer) and follow the [YouTube tutorial](https://youtu.be/6zMXZn4csI8)
-> 2. Click on each plugin. It will automatically use your web browser to download the selected plugin
-> 
-> Install all the plugins downloaded into OBS
-</details>
-
-<details>
-  <summary><b>Q:</b> "The number in the <kbd><b>Amount</b></kbd> box is not appearing or it isn’t counting up"</summary>
-  
-  > You are missing an OBS plugin or they are all not up-to-date. You can check in OBS by going to the top menu bar and selecting <kbd><b>Tools -> StreamUP -> Check Product Requirements</b></kbd>. If you have any OBS plugins that need installing or updating they will be displayed here. You can then do one of the following:
-> 1. Download the [StreamUP Pluginstaller](https://streamup.tips/product/plugin-installer) and follow the [YouTube tutorial](https://youtu.be/6zMXZn4csI8)
-> 2. Click on each plugin. It will automatically use your web browser to download the selected plugin
-> 
-> Install all the plugins downloaded into OBS
-</details>
-
-<br>
 
 *For any further questions or support, join the [StreamUP Discord server](https://discord.com/invite/RnDKRaVCEu?)*
 

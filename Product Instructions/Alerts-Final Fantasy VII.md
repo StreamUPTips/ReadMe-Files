@@ -1,13 +1,3 @@
-<style>
-.image {
-  display: block;
-  max-width: 500;
-  max-height: 100;
-  width: auto;
-  height: auto;
-}
-</style>
-
 <h4 align="center">
   <img src="../Assets/FFVII Alerts - Banner.png" alt="Final Fantasy 7 inspired alerts">
 </h4>
@@ -16,9 +6,7 @@
   <a href="https://andistonemedia.mystl.ink">
     <img alt="A link to all of Andi's links" src="https://img.shields.io/badge/Created%20by%20Andi%20Stone%20(Andilippi)-white?style=for-the-badge">
   </a>
-</h4>
-
-<h4 align="center">
+  <br><br>
     <a href="https://obsproject.com">
         <img alt="Supports OBS Studio version 28 and above" src="https://img.shields.io/badge/OBS Studio-28%2B-FFFFFF?style=for-the-badge&labelColor=1e1a1d">
     </a>
@@ -33,6 +21,8 @@
 
 ---
 
+<br>
+
 <h1 align="center">Initial Setup
 </h1>
 
@@ -40,8 +30,9 @@
 *If you have already installed a StreamUP product with Streamer.Bot v0.2.0+ then you can skip this step*
 
 2. Download & install the <kbd><b><a href="https://www.dafont.com/reactor7.font">Reactor 7 font</b></kbd><br></a>
-Make sure to only install the <kbd><b>OpenType font file (.otf)</b></kbd><br><br>
-    <img class="image" src="../Assets/FFVII Alerts - Font Install.png" alt="Reactor .otf font install screenshot">
+Make sure to only install the <kbd><b>OpenType font file (.otf)</b></kbd><br>
+
+    <img src="../Assets/FFVII Alerts - Font Install.png" alt="Reactor .otf font install screenshot">
 
 <br>
 
@@ -49,27 +40,37 @@ Make sure to only install the <kbd><b>OpenType font file (.otf)</b></kbd><br><br
 </h1>
 <h3>Adding the Alerts to Other Scenes</h3>
 
-1. Go to the scene you wish to add the alerts to. Add a new source and select <kbd><b>Scene</b></kbd>
+1. Go to the scene you wish to add the alerts to. Add a new source and select <kbd><b>Scene</b></kbd><br>
+
+    <img src="../Assets/FFVII Alerts - OBS Add Scene 1.png" alt="Reactor .otf font install screenshot"><br>
+
 2. Select <kbd><b>Add Existing</b></kbd> and choose <kbd><b>StreamUP Alerts • FFVII</b></kbd> then press <kbd><b>OK</b></kbd>
+
+    <img src="../Assets/FFVII Alerts - OBS Add Scene 2.png" alt="Reactor .otf font install screenshot"><br>
+
 3. Adjust the size and positioning of the alerts then lock the source
 
+    <img src="../Assets/FFVII Alerts - Position In OBS.png" alt="Reactor .otf font install screenshot">
 <br>
 
 <h1 align="center">Streamer.Bot Setup
 </h1>
 
 1. Select the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>FFVII Alerts • Settings</b></kbd><br>
-Under the <kbd><b>Triggers</b></kbd> window on the left, right click the top trigger and press <kbd><b>Test</b></kbd><br><br>
-  <img class="image" src="../Assets/FFVII Alerts - Open Settings.png" alt="Final Fantasy 7 inspired alerts"><br>
+Under the <kbd><b>Triggers</b></kbd> window on the left, right click the top trigger and press <kbd><b>Test</b></kbd><br>
+
+  <img src="../Assets/FFVII Alerts - Open Settings.png" alt="Final Fantasy 7 inspired alerts"><br>
 
 2. Configure the products settings and follow any prompts on screen. Make sure the <kbd><b>OBS Connection Number</b></kbd> is set<br>
-Press <kbd><b>Save</b></kbd> at the bottom of the window<br><br>
-    <img class="image" src="../Assets/FFVII Alerts - Settings 1.png" alt="Final Fantasy 7 inspired alerts">
-    <img class="image" src="../Assets/FFVII Alerts - Settings 2.png" alt="Final Fantasy 7 inspired alerts"><br>
+Press <kbd><b>Save</b></kbd> at the bottom of the window<br>
+
+    <img src="../Assets/FFVII Alerts - Settings 1.png" alt="Final Fantasy 7 inspired alerts">
+    <img src="../Assets/FFVII Alerts - Settings 2.png" alt="Final Fantasy 7 inspired alerts"><br>
 
 3. To test everything is working okay, head to the <kbd><b>Actions</b></kbd> tab and select <kbd><b>FFVII Alerts • Main Action</b></kbd><br>
-In the <kbd><b>Triggers</b></kbd> window on the right side, right click a trigger and press <kbd><b>Test</b></kbd>, check OBS to see the alerts in action<br><br>
-    <img class="image" src="../Assets/FFVII Alerts - Test Main Action.png" alt="Final Fantasy 7 inspired alerts"><br>
+In the <kbd><b>Triggers</b></kbd> window on the right side, right click a trigger and press <kbd><b>Test</b></kbd>, check OBS to see the alerts in action<br>
+
+    <img src="../Assets/FFVII Alerts - Test Main Action.png" alt="Final Fantasy 7 inspired alerts"><br>
 
 <br>
 
