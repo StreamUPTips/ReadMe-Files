@@ -1,7 +1,7 @@
 <h4 align="center">
-  Final Fantasy VII Inspired Alerts Install Guide
+  <img src="./.github/Assets/FFVII Alerts Banner.png" alt="Final Fantasy 7 inspired alerts">
   
-  *Insert Image Here*
+  Install Guide
 </h4>
 
 <h4 align="center">
@@ -33,7 +33,7 @@
         Initial Setup
 </h1>
 
-1. Download & install the <kbd><b><a href="https://www.dafont.com/reactor7.font">Reactor 7 font</b></kbd><br>
+1. Download & install the <kbd><b><a href="https://www.dafont.com/reactor7.font">Reactor 7 font</b></kbd><br></a>
 Make sure to only install the <kbd><b>OpenType font file (.otf)</b></kbd>
 
 <h1 align="center">
