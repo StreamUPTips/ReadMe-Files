@@ -23,8 +23,6 @@
 
 ---
 
-<br>
-
 <h1 align="center">Initial Setup
 </h1>
 
@@ -47,22 +45,21 @@ Make sure to only install the <kbd><b>OpenType font file (.otf)</b></kbd><br><br
 
 <br>
 
-<h1 align="center">
-        Streamer.Bot Setup
+<h1 align="center">Streamer.Bot Setup
 </h1>
 
 1. Select the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>FFVII Alerts • Settings</b></kbd><br>
 Under the <kbd><b>Triggers</b></kbd> window on the left, right click the top trigger and press <kbd><b>Test</b></kbd><br><br>
-  <img src="../Assets/FFVII Alerts - Open Settings.png" height="350" alt="Final Fantasy 7 inspired alerts"><br>
+  <img src="../Assets/FFVII Alerts - Open Settings.png" height="450" alt="Final Fantasy 7 inspired alerts"><br>
 
 2. Configure the products settings and follow any prompts on screen. Make sure the <kbd><b>OBS Connection Number</b></kbd> is set<br>
 Press <kbd><b>Save</b></kbd> at the bottom of the window<br><br>
-    <img src="../Assets/FFVII Alerts - Settings 1.png" height="350" alt="Final Fantasy 7 inspired alerts">
-    <img src="../Assets/FFVII Alerts - Settings 2.png" height="350" alt="Final Fantasy 7 inspired alerts"><br>
+    <img src="../Assets/FFVII Alerts - Settings 1.png" height="450" alt="Final Fantasy 7 inspired alerts">
+    <img src="../Assets/FFVII Alerts - Settings 2.png" height="450" alt="Final Fantasy 7 inspired alerts"><br>
 
 3. To test everything is working okay, head to the <kbd><b>Actions</b></kbd> tab and select <kbd><b>FFVII Alerts • Main Action</b></kbd><br>
 In the <kbd><b>Triggers</b></kbd> window on the right side, right click a trigger and press <kbd><b>Test</b></kbd>, check OBS to see the alerts in action<br><br>
-    <img src="../Assets/FFVII Alerts - Test Main Action.png" height="350" alt="Final Fantasy 7 inspired alerts"><br>
+    <img src="../Assets/FFVII Alerts - Test Main Action.png" height="450" alt="Final Fantasy 7 inspired alerts"><br>
 
 <br>
 
