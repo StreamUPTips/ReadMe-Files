@@ -30,8 +30,8 @@
 </h1>
 
 1. Download & install the <kbd><b><a href="https://www.dafont.com/reactor7.font">Reactor 7 font</b></kbd><br></a>
-Make sure to only install the <kbd><b>OpenType font file (.otf)</b></kbd><br>
-<img src="../Assets/FFVII Alerts - Font Install.png" width="500" alt="Final Fantasy 7 inspired alerts">
+Make sure to only install the <kbd><b>OpenType font file (.otf)</b></kbd><br><br>
+    <img src="../Assets/FFVII Alerts - Font Install.png" height="350" alt="Final Fantasy 7 inspired alerts">
 
 <br>
 
