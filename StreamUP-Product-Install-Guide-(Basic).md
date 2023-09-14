@@ -23,13 +23,13 @@
 1. Download & install the [StreamUP OBS plugin](https://ko-fi.com/s/0b5bd4536d)
     1. Extract the downloaded .zip file
     2. Copy the contents of the <kbd><b>Windows</b></kbd> folder into your <kbd><b>obs-studio</b></kbd> folder. The file path is usually: <kbd><b>C:\Program Files\obs-studio</b></kbd>
-2. Open OBS then on the top menu bar, select <kbd><b>Tools -> StreamUP -> Check Product Requirements</b></kbd>. If you have any OBS plugins that need installing or updating they will be displayed here.<br>
+2. Open OBS then on the top menu bar, select <kbd><b>Tools -> StreamUP -> Check Product Requirements</b></kbd>. If you have any OBS plugins that need installing or updating they will be displayed here.<br><br>
     <img src="Assets/General - Check Product Requirements.png" height="350" alt="Check product requirements ui screenshot">
-    <img src="Assets/General - Missing Or Outdated Plugin.png" height="350" alt="Missing or outdated plugin ui screenshot">
+    <img src="Assets/General - Missing Or Outdated Plugin.png" height="350" alt="Missing or outdated plugin ui screenshot"><br><br>
     1. You can then do one of the following:
          1. Download the [StreamUP Pluginstaller](https://streamup.tips/product/plugin-installer) and follow the [YouTube tutorial](https://youtu.be/6zMXZn4csI8)
          2. Click on each plugin. It will automatically use your web browser to download the selected plugin
-    2. Install all the plugins downloaded into OBS by copying the files into the <kbd><b>obs-studio</b></kbd> folder just like you did for the StreamUP OBS plugin<br>
+    2. Install all the plugins downloaded into OBS by copying the files into the <kbd><b>obs-studio</b></kbd> folder just like you did for the StreamUP OBS plugin<br><br>
        <img src="Assets/General - OBS Plugin Folder.png" height="500" alt="OBS plugin install location screenshot">
 
 <br>
@@ -38,9 +38,9 @@
         Installing A Product Into OBS
 </h1>
 
-1. In OBS, on the top menu bar, select <kbd><b>Tools -> StreamUP -> Install a Product</b></kbd><br>
-    <img src="Assets/General - Install A Product Into OBS.png" height="500" alt="Install a product ui screenshot">
-2. Navigate to the <kbd><b>2 - OBS INSTALL</b></kbd> folder and open the <kbd><b>.StreamUP</b></kbd> file. This will create a new scene/s in OBS<br>
+1. In OBS, on the top menu bar, select <kbd><b>Tools -> StreamUP -> Install a Product</b></kbd><br><br>
+    <img src="Assets/General - Install A Product Into OBS.png" height="500" alt="Install a product ui screenshot"><br><br>
+2. Navigate to the <kbd><b>2 - OBS INSTALL</b></kbd> folder and open the <kbd><b>.StreamUP</b></kbd> file. This will create a new scene/s in OBS<br><br>
     <img src="Assets/General - Install StreamUP File.png" height="500" alt="Install .StreamUP file screenshot">
 
 <br>
@@ -56,14 +56,14 @@ Configure the following settings then press <kbd><b>Start Server</b></kbd>
     > Endpoint - /<br><br>
     <img src="Assets/General - SB Websocket Server Settings.png" height="350" alt="Install a product ui screenshot"><br><br>
 
-2. Navigate to the tab <kbd><b>Stream Apps → OBS</b></kbd> and make sure your OBS is connected via websocket 5.x. Make a note of the connection number (by default this is <kbd><b>0</b></kbd>)<br>
+2. Navigate to the tab <kbd><b>Stream Apps → OBS</b></kbd> and make sure your OBS is connected via websocket 5.x. Make a note of the connection number (by default this is <kbd><b>0</b></kbd>)<br><br>
    <img src="Assets/General - SB OBS Connection Number.png" height="300" alt="OBS connection number ui screenshot">
    <img src="Assets/General - SB OBS Connection.png" height="300" alt="OBS connection ui screenshot">
 
-3. Press <kbd><b>Import</b></kbd> in the top left<br>
+3. Press <kbd><b>Import</b></kbd> in the top left<br><br>
    <img src="Assets/General - SB Import.png" height="350" alt="StreamerBot import ui screenshot">
 
-4. Navigate to the <kbd><b>3 - BOT INSTALL\STREAMER.BOT</b></kbd> folder. Drag & drop the <kbd><b>.sb</b></kbd> into the <kbd><b>Import String</kbd></b> field. Press <kbd><b>Import</b></kbd><br>
+4. Navigate to the <kbd><b>3 - BOT INSTALL\STREAMER.BOT</b></kbd> folder. Drag & drop the <kbd><b>.sb</b></kbd> into the <kbd><b>Import String</kbd></b> field. Press <kbd><b>Import</b></kbd><br><br>
     <img src="Assets/General - SB File Import.png" height="300" alt=".SB file import screenshot">
     <img src="Assets/General - SB Import Finish.png" height="300" alt=".SB file import screenshot">
     > <h4>Important Note</h4>
