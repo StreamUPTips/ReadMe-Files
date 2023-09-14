@@ -1,7 +1,5 @@
 <h4 align="center">
-  <img src="./.github/Assets/FFVII Alerts Banner.png" alt="Final Fantasy 7 inspired alerts">
-  
-  Install Guide
+  <img src="../Assets/FFVII Alerts Banner.png" alt="Final Fantasy 7 inspired alerts">
 </h4>
 
 <h4 align="center">
