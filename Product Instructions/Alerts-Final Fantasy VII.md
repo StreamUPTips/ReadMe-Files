@@ -1,14 +1,12 @@
-<h1 align="center">
+<h4 align="center">
   <img src="../Assets/FFVII Alerts - Banner.png" alt="Final Fantasy 7 inspired alerts">
-</h1>
+</h4>
 
 <h4 align="center">
   <a href="https://andistonemedia.mystl.ink">
     <img alt="A link to all of Andi's links" src="https://img.shields.io/badge/Created%20by%20Andi%20Stone%20(Andilippi)-white?style=for-the-badge">
   </a>
 </h4>
-
-<br>
 
 <h4 align="center">
     <a href="https://obsproject.com">
@@ -32,7 +30,7 @@
 </h1>
 
 1. Download & install the <kbd><b><a href="https://www.dafont.com/reactor7.font">Reactor 7 font</b></kbd><br></a>
-Make sure to only install the <kbd><b>OpenType font file (.otf)</b></kbd><br><br>
+Make sure to only install the <kbd><b>OpenType font file (.otf)</b></kbd><br>
 <img src="../Assets/FFVII Alerts - Font Install.png" width="500" alt="Final Fantasy 7 inspired alerts">
 
 <br>
