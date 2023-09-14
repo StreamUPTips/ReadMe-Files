@@ -14,7 +14,7 @@
 
 > <h4>Important</h4>
 > If you are updating your StreamUP products from versions that were built for the old version of Streamer.Bot (before 0.2.0). You will need to remove the scenes in OBS and reinstall the new ones as a lot of changes have been made to improve performance etc.<br><br>
-> This will mean you will lose any personal changes / customisation.<br><br>
+> This will mean you will lose any personal changes / customisation.<br>
 
 <h1 align="center">
         OBS Setup
@@ -53,7 +53,8 @@
 Configure the following settings then press <kbd><b>Start Server</b></kbd>
     > Address - 127.0.0.1<br>
     > Port - 8080<br>
-    > Endpoint - /<br><br>
+    > Endpoint - /<br>
+    
     <img src="Assets/General - SB Websocket Server Settings.png" height="350" alt="Install a product ui screenshot"><br><br>
 
 2. Navigate to the tab <kbd><b>Stream Apps → OBS</b></kbd> and make sure your OBS is connected via websocket 5.x. Make a note of the connection number (by default this is <kbd><b>0</b></kbd>)<br><br>
@@ -69,7 +70,7 @@ Configure the following settings then press <kbd><b>Start Server</b></kbd>
     > <h4>Important Note</h4>
     > If you cannot drag and drop the file you can open it using <kbd><b>Notepad</b></kbd><br>
     > Select all of the text <kbd>CTRL + A</kbd> and copy it <kbd>CTRL + C</kbd><br>
-    > Paste the copied text into the <kbd><b>Import String</b></kbd> box inside of Streamer.Bot<br><br>
+    > Paste the copied text into the <kbd><b>Import String</b></kbd> box inside of Streamer.Bot<br>
 
 5. Follow the product specific instructions to complete installation
 
