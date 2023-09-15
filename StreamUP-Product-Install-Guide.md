@@ -71,10 +71,9 @@ Configure the following settings then press <kbd><b>Start Server</b></kbd>
 
    <img src="Assets/General - SB Import.png" alt="StreamerBot import ui screenshot">
 
-4. Navigate to the <kbd><b>3 - BOT INSTALL\STREAMER.BOT</b></kbd> folder. Drag & drop the <kbd><b>.sb</b></kbd> into the <kbd><b>Import String</kbd></b> field. Press <kbd><b>Import</b></kbd><br>
-
+4. Navigate to the <kbd><b>3 - BOT INSTALL\STREAMER.BOT</b></kbd> folder. Drag & drop the <kbd><b>.sb</b></kbd> into the <kbd><b>Import String</kbd></b> field. Press <kbd><b>Import</b></kbd><br><br>
     <img src="Assets/General - SB File Import.png" alt=".SB file import screenshot">
-    <img src="Assets/General - SB Import Finish.png" alt=".SB file import screenshot">
+    <img src="Assets/General - SB Import Finish.png" alt=".SB file import screenshot"><br>
     > <h4>Important Note</h4>
     > If you cannot drag and drop the file you can open it using <kbd><b>Notepad</b></kbd><br>
     > Select all of the text <kbd>CTRL + A</kbd> and copy it <kbd>CTRL + C</kbd><br>
