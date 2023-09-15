@@ -1,7 +1,6 @@
 <h4 align="center">
-  <img src="../Assets/Xbox Achievement Alerts - Banner.png" alt="xbox achievement alerts">
+  <img src="../Assets/Call To Actions 1 Widget - Banner.png" alt="Call to actions 1">
 </h4>
-
 
 <h4 align="center">
   <a href="https://andistonemedia.mystl.ink">
@@ -26,19 +25,19 @@
 
 <h1 align="center">OBS Setup
 </h1>
-<h3>Adding the Alerts to Other Scenes</h3>
+<h3>Adding the Widget to Other Scenes</h3>
 
 1. Go to the scene you wish to add the alerts to. Add a new source and select <kbd><b>Scene</b></kbd><br>
 
-    <img src="../Assets/Xbox Achievement Alerts - OBS Add Scene 1.png" alt="add scene screenshot"><br>
+    <img src="../Assets/Call To Actions 1 Widget - OBS Add Scene 1.png" alt="add scene screenshot"><br>
 
-1. Select <kbd><b>Add Existing</b></kbd> and choose <kbd><b>StreamUP Alerts • Xbox Achievement</b></kbd> then press <kbd><b>OK</b></kbd><br>
+1. Select <kbd><b>Add Existing</b></kbd> and choose <kbd><b>StreamUP Widgets • Call To Actions 1</b></kbd> then press <kbd><b>OK</b></kbd><br>
 
-    <img src="../Assets/Xbox Achievement Alerts - OBS Add Scene 2.png" alt="add scene part 2 screenshot"><br>
+    <img src="../Assets/Call To Actions 1 Widget - OBS Add Scene 2.png" alt="add scene part 2 screenshot"><br>
 
 1. Adjust the size and positioning of the alerts then lock the source<br>
 
-    <img src="../Assets/Xbox Achievement Alerts - Position In OBS.png" alt="positioning scene in obs screenshot">
+    <img src="../Assets/Call To Actions 1 Widget - Position In OBS.png" alt="positioning scene in obs screenshot">
 
 <br>
 
@@ -46,20 +45,31 @@
         Streamer.Bot Setup
 </h1>
 
-1. Select the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>Xbox Achievement Alerts • Settings</b></kbd><br>
+1. Select the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>Call To Actions 1 • Settings</b></kbd><br>
 Under the <kbd><b>Triggers</b></kbd> window on the left, right click the top trigger and press <kbd><b>Test</b></kbd><br><br>
-  <img src="../Assets/Xbox Achievement Alerts - Open Settings.png" alt="Xbox Achievement alerts StreamerBot open settings page"><br>
+  <img src="../Assets/Call To Actions 1 Widget - Open Settings.png" alt="Call To Actions 1 StreamerBot open settings page"><br>
 
 2. Configure the products settings and follow any prompts on screen. Make sure the <kbd><b>OBS Connection Number</b></kbd> is set<br>
 Press <kbd><b>Save</b></kbd> at the bottom of the window<br>
 
-    <img src="../Assets/Xbox Achievement Alerts - Settings 1.png" alt="Xbox Achievement alerts settings page 1">
-    <img src="../Assets/Xbox Achievement Alerts - Settings 2.png" alt="Xbox Achievement alerts settings page 2"><br>
+    <img src="../Assets/Call To Actions 1 Widget - Settings 1.png" alt="Call To Actions 1 Widget settings page 1">
+    <img src="../Assets/Call To Actions 1 Widget - Settings 2.png" alt="Call To Actions 1 Widget - settings page 2"><br>
 
-3. To test everything is working okay, head to the <kbd><b>Actions</b></kbd> tab and select <kbd><b>Xbox Achievement Alerts • Main Action</b></kbd><br>
-In the <kbd><b>Triggers</b></kbd> window on the right side, right click a trigger and press <kbd><b>Test</b></kbd>, check OBS to see the alerts in action<br>
+3. The next settings pages will allow you to configure each call to action individually. Press save on each.<br>
 
-    <img src="../Assets/Xbox Achievement Alerts - Test Main Action.png" alt="Xbox Achievement alerts test action in streamerbot"><br>
+    <img src="../Assets/Call To Actions 1 Widget - Settings 3.png" alt="Call To Actions 1 Widget - settings page 3"><br>
+
+
+4. To test everything is working okay, head to the <kbd><b>Actions</b></kbd> tab and select <kbd><b>Call To Actions 1 • Main Action</b></kbd><br>
+In the <kbd><b>Triggers</b></kbd> window on the right side, right click a trigger and press <kbd><b>Test</b></kbd>, check OBS to see the widget in action. It will cycle the different call to actions depending on the time you set.<br>
+The widget will automatically start when you press <kbd><b>Start Streaming</b></kbd> in OBS. You can also set up your own trigger as well
+
+    <img src="../Assets/Call To Actions 1 Widget - Main Action.png" alt="Call To Actions 1 Widget test action in streamerbot"><br>
+
+<br>
+
+<h1 align="center">Adding Custom Icons
+</h1>
 
 <br>
 
