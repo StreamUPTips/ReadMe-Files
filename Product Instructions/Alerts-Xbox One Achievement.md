@@ -47,7 +47,7 @@
 </h1>
 
 1. Select the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>Xbox Achievement Alerts • Settings</b></kbd><br>
-Under the <kbd><b>Triggers</b></kbd> window on the left, right click the top trigger and press <kbd><b>Test</b></kbd><br>
+Under the <kbd><b>Triggers</b></kbd> window on the left, right click the top trigger and press <kbd><b>Test</b></kbd><br><br>
   <img src="../Assets/Xbox Achievement Alerts - Open Settings.png" alt="Xbox Achievement alerts StreamerBot open settings page"><br>
 
 2. Configure the products settings and follow any prompts on screen. Make sure the <kbd><b>OBS Connection Number</b></kbd> is set<br>
