@@ -1,7 +1,5 @@
 <h4 align="center">
-  Final Fantasy VIII Inspired Alerts Install Guide
-  
-  *Insert Image Here*
+  <img src="../Assets/FFVIII Alerts - Banner.png" alt="Final Fantasy 7 inspired alerts">
 </h4>
 
 <h4 align="center">
@@ -38,28 +36,41 @@
 </h1>
 <h3>Adding the Alerts to Other Scenes</h3>
 
-1. Go to the scene you wish to add the alerts to. Add a new source and select <kbd><b>Scene</b></kbd>
-1. Select <kbd><b>Add Existing</b></kbd> and choose <kbd><b>StreamUP Alerts • FFVIII</b></kbd> then press <kbd><b>OK</b></kbd>
-1. Adjust the size and positioning of the alerts then lock the source
+1. Go to the scene you wish to add the alerts to. Add a new source and select <kbd><b>Scene</b></kbd><br>
+
+    <img src="../Assets/FFVIII Alerts - OBS Add Scene 1.png" alt="Reactor .otf font install screenshot"><br>
+
+1. Select <kbd><b>Add Existing</b></kbd> and choose <kbd><b>StreamUP Alerts • FFVIII</b></kbd> then press <kbd><b>OK</b></kbd><br>
+
+    <img src="../Assets/FFVIII Alerts - OBS Add Scene 2.png" alt="Reactor .otf font install screenshot"><br>
+
+1. Adjust the size and positioning of the alerts then lock the source<br>
+
+    <img src="../Assets/FFVIII Alerts - Position In OBS.png" alt="Reactor .otf font install screenshot">
+<br>
 
 <br>
 
-<h1 align="center">
-        Streamer.Bot Setup
+<h1 align="center">Streamer.Bot Setup
 </h1>
 
-1. Select the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>FFVIII Alerts • Settings</b></kbd>
-1. Under the <kbd><b>Triggers</b></kbd> window on the left, right click the top trigger and press <kbd><b>Test</b></kbd>
-1. Configure the products settings and follow any prompts on screen. Make sure the <kbd><b>OBS Connection Number</b></kbd> is set
-1. Press <kbd><b>Save</b></kbd> at the bottom of the window
-1. To test everything is working okay, head to the <kbd><b>Actions</b></kbd> tab and select <kbd><b>FFVIII Alerts • Main Action</b></kbd><br>
-In the <kbd><b>Triggers</b></kbd> window on the right side, right click a trigger and press <kbd><b>Test</b></kbd><br>
-Check OBS to see the alerts in action
+1. Select the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>FFVIII Alerts • Settings</b></kbd>, under the <kbd><b>Triggers</b></kbd> window on the left, right click the top trigger and press <kbd><b>Test</b></kbd><br>
+
+    <img src="../Assets/FFVIII Alerts - Open Settings.png" alt="Final Fantasy 7 StreamerBot open settings page"><br>
+
+1. Configure the products settings and follow any prompts on screen. Make sure the <kbd><b>OBS Connection Number</b></kbd> is set then press <kbd><b>Save</b></kbd> at the bottom of the window<br>
+
+    <img src="../Assets/FFVIII Alerts - Settings 1.png" alt="Final Fantasy 7 settings page 1">
+    <img src="../Assets/FFVIII Alerts - Settings 2.png" alt="Final Fantasy 7 settings page 2"><br>
+
+1. To test everything is working okay, head to the <kbd><b>Actions</b></kbd> tab and select <kbd><b>FFVII Alerts • Main Action</b></kbd><br>
+In the <kbd><b>Triggers</b></kbd> window on the right side, right click a trigger and press <kbd><b>Test</b></kbd>, check OBS to see the alerts in action<br>
+
+    <img src="../Assets/FFVIII Alerts - Test Main Action.png" alt="Final Fantasy 7 test action in streamerbot"><br>
 
 <br>
 
-<h1 align="center">
-        Frequently Asked Questions
+<h1 align="center">Frequently Asked Questions
 </h1>
 
 <details>

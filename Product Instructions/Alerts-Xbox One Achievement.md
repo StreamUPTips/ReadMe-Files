@@ -1,8 +1,7 @@
 <h4 align="center">
-  Xbox One Achievement Inspired Alerts Install Guide
-  
-  *Insert Image Here*
+  <img src="../Assets/Xbox Achievement Alerts - Banner.png" alt="xbox  alerts">
 </h4>
+
 
 <h4 align="center">
   <a href="https://andistonemedia.mystl.ink">
@@ -25,14 +24,21 @@
 
 <br>
 
-<h1 align="center">
-        OBS Setup
+<h1 align="center">OBS Setup
 </h1>
 <h3>Adding the Alerts to Other Scenes</h3>
 
-1. Go to the scene you wish to add the alerts to. Add a new source and select <kbd><b>Scene</b></kbd>
-1. Select <kbd><b>Add Existing</b></kbd> and choose <kbd><b>StreamUP Alerts • Xbox One Achievement</b></kbd> then press <kbd><b>OK</b></kbd>
-1. Adjust the size and positioning of the alerts then lock the source
+1. Go to the scene you wish to add the alerts to. Add a new source and select <kbd><b>Scene</b></kbd><br>
+
+    <img src="../Assets/Xbox Achievement Alerts - OBS Add Scene 1.png" alt="add scene screenshot"><br>
+
+1. Select <kbd><b>Add Existing</b></kbd> and choose <kbd><b>StreamUP Alerts • Xbox Achievement</b></kbd> then press <kbd><b>OK</b></kbd><br>
+
+    <img src="../Assets/Xbox Achievement Alerts - OBS Add Scene 2.png" alt="add scene part 2 screenshot"><br>
+
+1. Adjust the size and positioning of the alerts then lock the source<br>
+
+    <img src="../Assets/Xbox Achievement Alerts - Position In OBS.png" alt="positioning scene in obs screenshot">
 
 <br>
 
@@ -40,13 +46,20 @@
         Streamer.Bot Setup
 </h1>
 
-1. Select the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>Xbox One Achievement Alerts • Settings</b></kbd>
-1. Under the <kbd><b>Triggers</b></kbd> window on the left, right click the top trigger and press <kbd><b>Test</b></kbd>
-1. Configure the products settings and follow any prompts on screen. Make sure the <kbd><b>OBS Connection Number</b></kbd> is set
-1. Press <kbd><b>Save</b></kbd> at the bottom of the window
-1. To test everything is working okay, head to the <kbd><b>Actions</b></kbd> tab and select <kbd><b>Xbox One Achievement Alerts • Main Action</b></kbd><br>
-In the <kbd><b>Triggers</b></kbd> window on the right side, right click a trigger and press <kbd><b>Test</b></kbd><br>
-Check OBS to see the alerts in action
+1. Select the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>Xbox Achievement Alerts • Settings</b></kbd><br>
+Under the <kbd><b>Triggers</b></kbd> window on the left, right click the top trigger and press <kbd><b>Test</b></kbd><br>
+  <img src="../Assets/Xbox Achievement Alerts - Open Settings.png" alt="Xbox Achievement alerts StreamerBot open settings page"><br>
+
+2. Configure the products settings and follow any prompts on screen. Make sure the <kbd><b>OBS Connection Number</b></kbd> is set<br>
+Press <kbd><b>Save</b></kbd> at the bottom of the window<br>
+
+    <img src="../Assets/Xbox Achievement Alerts - Settings 1.png" alt="Xbox Achievement alerts settings page 1">
+    <img src="../Assets/Xbox Achievement Alerts - Settings 2.png" alt="Xbox Achievement alerts settings page 2"><br>
+
+3. To test everything is working okay, head to the <kbd><b>Actions</b></kbd> tab and select <kbd><b>Xbox Achievement Alerts • Main Action</b></kbd><br>
+In the <kbd><b>Triggers</b></kbd> window on the right side, right click a trigger and press <kbd><b>Test</b></kbd>, check OBS to see the alerts in action<br>
+
+    <img src="../Assets/Xbox Achievement Alerts - Test Main Action.png" alt="Xbox Achievement alerts test action in streamerbot"><br>
 
 <br>
 
