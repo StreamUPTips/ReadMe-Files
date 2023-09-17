@@ -57,7 +57,7 @@ Make sure to only install the <kbd><b>OpenType font file (.otf)</b></kbd><br>
 </h1>
 
 1. Select the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>FFVII Alerts • Settings</b></kbd><br>
-Under the <kbd><b>Triggers</b></kbd> window on the left, right click the top trigger and press <kbd><b>Test</b></kbd><br><br>
+Under the <kbd><b>Triggers</b></kbd> window on the left, right click the top trigger and press <kbd><b>Test Trigger</b></kbd><br><br>
   <img src="../Assets/FFVII Alerts - Open Settings.png" alt="Final Fantasy 7 StreamerBot open settings page"><br>
 
 2. Configure the products settings and follow any prompts on screen. Make sure the <kbd><b>OBS Connection Number</b></kbd> is set<br>

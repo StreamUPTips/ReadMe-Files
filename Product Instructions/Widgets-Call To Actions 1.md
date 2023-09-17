@@ -23,6 +23,14 @@
 
 <br>
 
+<h1 align="center">Initial Setup
+</h1>
+
+1. Complete the <kbd><b><a href="https://github.com/StreamUPTips/ReadMe-Files/blob/main/StreamUP-Product-Install-Guide.md">OBS & Streamer.Bot setup for StreamUP products</b></kbd><br></a>
+*If you have already installed a StreamUP product with Streamer.Bot v0.2.0+ then you can skip this step*
+
+<br>
+
 <h1 align="center">OBS Setup
 </h1>
 <h3>Adding the Widget to Other Scenes</h3>
@@ -46,8 +54,9 @@
 </h1>
 
 1. Select the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>Call To Actions 1 • Settings</b></kbd><br>
-Under the <kbd><b>Triggers</b></kbd> window on the left, right click the top trigger and press <kbd><b>Test</b></kbd><br><br>
-  <img src="../Assets/Call To Actions 1 Widget - Open Settings.png" alt="Call To Actions 1 StreamerBot open settings page"><br>
+Under the <kbd><b>Triggers</b></kbd> window on the left, right click the top trigger and press <kbd><b>Test Trigger</b></kbd><br>
+
+   <img src="../Assets/Call To Actions 1 Widget - Open Settings.png" alt="Call To Actions 1 StreamerBot open settings page"><br>
 
 2. Configure the products settings and follow any prompts on screen. Make sure the <kbd><b>OBS Connection Number</b></kbd> is set<br>
 Press <kbd><b>Save</b></kbd> at the bottom of the window<br>
@@ -71,7 +80,26 @@ The widget will automatically start when you press <kbd><b>Start Streaming</b></
 <h1 align="center">Adding Custom Icons
 </h1>
 
-<br>
+You can add up to 5 custom logos by doing the following:
+
+1. Navigate to the <kbd><b>2 - OBS INSTALL\Resources\Image Sources</b></kbd> folder and replacing the custom images there. e.g: <kbd><b>Custom1.png</b></kbd><br>
+Make sure the logo is a <kbd><b>.png</b></kbd> file and it is completely black otherwise it will not work correctly<br>
+
+    <img src="../Assets/Call To Actions 1 Widget - Custom 1.png" alt="Call To Actions 1 Widget settings page 1"><br>
+
+2. In Streamer.Bot select the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>Call To Actions 1 • Settings</b></kbd><br>
+Under the <kbd><b>Triggers</b></kbd> window on the left, right click the top trigger and press <kbd><b>Test</b></kbd><br>
+
+   <img src="../Assets/Call To Actions 1 Widget - Open Settings.png" alt="Call To Actions 1 StreamerBot open settings page"><br>
+
+3. Tick the relevant custom numbers under the <kbd><b>Widget Selection</b></kbd> heading you want to use then press <kbd><b>Save</b></kbd> at the bottom of the window<br>
+
+    <img src="../Assets/Call To Actions 1 Widget - Settings 1.png" alt="Call To Actions 1 Widget settings page 1"><br>
+
+4. You can then adjust the settings of that custom widget and press save once again<br>
+
+    <img src="../Assets/Call To Actions 1 Widget - Custom 2.png" alt="Call To Actions 1 Widget settings page 1"><br>
+
 
 <h1 align="center">
         Frequently Asked Questions

@@ -23,11 +23,13 @@
 
 <br>
 
-<h1 align="center">
-        Initial Setup
+<h1 align="center">Initial Setup
 </h1>
 
-1. Download & install the <kbd><b><a href="https://www.wfonts.com/font/futura">Futura font</b></kbd></a><br>
+1. Complete the <kbd><b><a href="https://github.com/StreamUPTips/ReadMe-Files/blob/main/StreamUP-Product-Install-Guide.md">OBS & Streamer.Bot setup for StreamUP products</b></kbd><br></a>
+*If you have already installed a StreamUP product with Streamer.Bot v0.2.0+ then you can skip this step*
+
+2. Download & install the <kbd><b><a href="https://www.wfonts.com/font/futura">Futura font</b></kbd></a><br>
 
 <br>
 
@@ -54,7 +56,7 @@
 </h1>
 
 1. Select the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>Minim Alerts • Settings</b></kbd><br>
-Under the <kbd><b>Triggers</b></kbd> window on the left, right click the top trigger and press <kbd><b>Test</b></kbd><br><br>
+Under the <kbd><b>Triggers</b></kbd> window on the left, right click the top trigger and press <kbd><b>Test Trigger</b></kbd><br><br>
   <img src="../Assets/Minim Alerts - Open Settings.png" alt="Minim alerts StreamerBot open settings page"><br>
 
 2. Configure the products settings and follow any prompts on screen. Make sure the <kbd><b>OBS Connection Number</b></kbd> is set<br>

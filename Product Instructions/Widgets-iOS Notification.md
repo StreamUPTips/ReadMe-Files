@@ -1,7 +1,6 @@
 <h4 align="center">
-  <img src="../Assets/Xbox Achievement Alerts - Banner.png" alt="xbox achievement alerts">
+  <img src="../Assets/iOS Notification Widget - Banner.png" alt="iOS Notification">
 </h4>
-
 
 <h4 align="center">
   <a href="https://andistonemedia.mystl.ink">
@@ -34,19 +33,19 @@
 
 <h1 align="center">OBS Setup
 </h1>
-<h3>Adding the Alerts to Other Scenes</h3>
+<h3>Adding the Widget to Other Scenes</h3>
 
 1. Go to the scene you wish to add the alerts to. Add a new source and select <kbd><b>Scene</b></kbd><br>
 
-    <img src="../Assets/Xbox Achievement Alerts - OBS Add Scene 1.png" alt="add scene screenshot"><br>
+    <img src="../Assets/iOS Notification Widget - OBS Add Scene 1.png" alt="add scene screenshot"><br>
 
-1. Select <kbd><b>Add Existing</b></kbd> and choose <kbd><b>StreamUP Alerts • Xbox Achievement</b></kbd> then press <kbd><b>OK</b></kbd><br>
+1. Select <kbd><b>Add Existing</b></kbd> and choose <kbd><b>StreamUP Widgets • iOS Notification</b></kbd> then press <kbd><b>OK</b></kbd><br>
 
-    <img src="../Assets/Xbox Achievement Alerts - OBS Add Scene 2.png" alt="add scene part 2 screenshot"><br>
+    <img src="../Assets/iOS Notification Widget - OBS Add Scene 2.png" alt="add scene part 2 screenshot"><br>
 
 1. Adjust the size and positioning of the alerts then lock the source<br>
 
-    <img src="../Assets/Xbox Achievement Alerts - Position In OBS.png" alt="positioning scene in obs screenshot">
+    <img src="../Assets/iOS Notification Widget - Position In OBS.png" alt="positioning scene in obs screenshot">
 
 <br>
 
@@ -54,20 +53,27 @@
         Streamer.Bot Setup
 </h1>
 
-1. Select the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>Xbox Achievement Alerts • Settings</b></kbd><br>
-Under the <kbd><b>Triggers</b></kbd> window on the left, right click the top trigger and press <kbd><b>Test Trigger</b></kbd><br><br>
-  <img src="../Assets/Xbox Achievement Alerts - Open Settings.png" alt="Xbox Achievement alerts StreamerBot open settings page"><br>
+1. Select the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>iOS Notification • Settings</b></kbd><br>
+Under the <kbd><b>Triggers</b></kbd> window on the left, right click the top trigger and press <kbd><b>Test Trigger</b></kbd><br>
+
+   <img src="../Assets/iOS Notification Widget - Open Settings.png" alt="iOS Notification StreamerBot open settings page"><br>
 
 2. Configure the products settings and follow any prompts on screen. Make sure the <kbd><b>OBS Connection Number</b></kbd> is set<br>
 Press <kbd><b>Save</b></kbd> at the bottom of the window<br>
 
-    <img src="../Assets/Xbox Achievement Alerts - Settings 1.png" alt="Xbox Achievement alerts settings page 1">
-    <img src="../Assets/Xbox Achievement Alerts - Settings 2.png" alt="Xbox Achievement alerts settings page 2"><br>
+    <img src="../Assets/iOS Notification Widget - Settings 1.png" alt="iOS Notification Widget settings page 1">
 
-3. To test everything is working okay, head to the <kbd><b>Actions</b></kbd> tab and select <kbd><b>Xbox Achievement Alerts • Main Action</b></kbd><br>
-In the <kbd><b>Triggers</b></kbd> window on the right side, right click a trigger and press <kbd><b>Test</b></kbd>, check OBS to see the alerts in action<br>
+3. To set up a trigger, head to the <kbd><b>Actions</b></kbd> tab and select <kbd><b>iOS Notification • Main Action</b></kbd><br>
+In the <kbd><b>Triggers</b></kbd> window on the right side you can do one of the following:
+    1. Stay with the preset triggers for viewers <kbd><b>First Words</b></kbd>
 
-    <img src="../Assets/Xbox Achievement Alerts - Test Main Action.png" alt="Xbox Achievement alerts test action in streamerbot"><br>
+    2. If you do not want to use a viewers <kbd><b>First Words</b></kbd> then you can right click in the <kbd><b>Triggers</b></kbd> window and create a new one
+
+        <img src="../Assets/iOS Notification Widget - Create Trigger.png" alt="iOS Notification Widget create trigger in streamerbot"><br>
+
+4.  When everything is set up, right click your trigger and press <kbd><b>Test Trigger</b></kbd> then check OBS to see the widget in action<br>
+
+    <img src="../Assets/iOS Notification Widget - Test Main Action.png" alt="iOS Notification Widget test action in streamerbot"><br>
 
 <br>
 
