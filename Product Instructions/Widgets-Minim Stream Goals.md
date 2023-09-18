@@ -1,5 +1,5 @@
 <h4 align="center">
-  <img src="../Assets/iOS Notification Classic Widget - Banner.png" alt="iOS Notification Classic">
+  <img src="../Assets/Minim Stream Goals Widget - Banner.png" alt="Minim Stream Goals">
 </h4>
 
 <h4 align="center">
@@ -29,7 +29,7 @@
 1. Complete the <kbd><b><a href="https://github.com/StreamUPTips/ReadMe-Files/blob/main/StreamUP-Product-Install-Guide.md">OBS & Streamer.Bot setup for StreamUP products</b></kbd><br></a>
 *If you have already installed a StreamUP product with Streamer.Bot v0.2.0+ then you can skip this step*
 
-2. Download & install the <kbd><b><a href="https://www.downloadfonts.io/san-francisco-font-free/">San Francisco Font</b></kbd></a><br>
+2. Download & install the <kbd><b><a href="https://www.wfonts.com/font/futura">Futura font</b></kbd></a><br>
 
 <br>
 
@@ -39,15 +39,15 @@
 
 1. Go to the scene you wish to add the alerts to. Add a new source and select <kbd><b>Scene</b></kbd><br>
 
-    <img src="../Assets/iOS Notification Classic Widget - OBS Add Scene 1.png" alt="add scene screenshot"><br>
+    <img src="../Assets/Minim Stream Goals Widget - OBS Add Scene 1.png" alt="add scene screenshot"><br>
 
-1. Select <kbd><b>Add Existing</b></kbd> and choose <kbd><b>StreamUP Widgets • iOS Notification Classic</b></kbd> then press <kbd><b>OK</b></kbd><br>
+1. Select <kbd><b>Add Existing</b></kbd> and choose <kbd><b>StreamUP Widgets • Minim Stream Goals</b></kbd> then press <kbd><b>OK</b></kbd><br>
 
-    <img src="../Assets/iOS Notification Classic Widget - OBS Add Scene 2.png" alt="add scene part 2 screenshot"><br>
+    <img src="../Assets/Minim Stream Goals Widget - OBS Add Scene 2.png" alt="add scene part 2 screenshot"><br>
 
 1. Adjust the size and positioning of the alerts then lock the source<br>
 
-    <img src="../Assets/iOS Notification Classic Widget - Position In OBS.png" alt="positioning scene in obs screenshot">
+    <img src="../Assets/Minim Stream Goals Widget - Position In OBS.png" alt="positioning scene in obs screenshot">
 
 <br>
 
@@ -55,27 +55,20 @@
         Streamer.Bot Setup
 </h1>
 
-1. Select the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>iOS Notification Classic • Settings</b></kbd><br>
+1. Select the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>Minim Stream Goals • Settings</b></kbd><br>
 Under the <kbd><b>Triggers</b></kbd> window on the left, right click the top trigger and press <kbd><b>Test Trigger</b></kbd><br>
 
-   <img src="../Assets/iOS Notification Classic Widget - Open Settings.png" alt="iOS Notification Classic StreamerBot open settings page"><br>
+   <img src="../Assets/Minim Stream Goals Widget - Open Settings.png" alt="Minim Stream Goals StreamerBot open settings page"><br>
 
 2. Configure the products settings and follow any prompts on screen. Make sure the <kbd><b>OBS Connection Number</b></kbd> is set<br>
 Press <kbd><b>Save</b></kbd> at the bottom of the window<br>
 
-    <img src="../Assets/iOS Notification Classic Widget - Settings 1.png" alt="iOS Notification Classic Widget settings page 1">
+    <img src="../Assets/Minim Stream Goals Widget - Settings 1.png" alt="Minim Stream Goals Widget settings page 1">
 
-3. To set up a trigger, head to the <kbd><b>Actions</b></kbd> tab and select <kbd><b>iOS Notification Classic • Main Action</b></kbd><br>
-In the <kbd><b>Triggers</b></kbd> window on the right side you can do one of the following:
-    1. Stay with the preset triggers for viewers <kbd><b>First Words</b></kbd>
+3. Depending on if you are using this with Twitch or YouTube, a third settings page will appear to set some more goal values and colours
 
-    2. If you do not want to use a viewers <kbd><b>First Words</b></kbd> then you can right click in the <kbd><b>Triggers</b></kbd> window and create a new one
-
-        <img src="../Assets/iOS Notification Classic Widget - Create Trigger.png" alt="iOS Notification Classic Widget create trigger in streamerbot"><br>
-
-4.  When everything is set up, right click your trigger and press <kbd><b>Test Trigger</b></kbd> then check OBS to see the widget in action<br>
-
-    <img src="../Assets/iOS Notification Classic Widget - Test Main Action.png" alt="iOS Notification Classic Widget test action in streamerbot"><br>
+    <img src="../Assets/Minim Stream Goals Widget - Settings 2.png" alt="Minim Stream Goals Widget settings page 2">
+    <img src="../Assets/Minim Stream Goals Widget - Settings 3.png" alt="Minim Stream Goals Widget settings page 3">
 
 <br>
 

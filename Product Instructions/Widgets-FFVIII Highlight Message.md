@@ -29,6 +29,8 @@
 1. Complete the <kbd><b><a href="https://github.com/StreamUPTips/ReadMe-Files/blob/main/StreamUP-Product-Install-Guide.md">OBS & Streamer.Bot setup for StreamUP products</b></kbd><br></a>
 *If you have already installed a StreamUP product with Streamer.Bot v0.2.0+ then you can skip this step*
 
+2. Download & install the <kbd><b><a href="https://fontstruct.com/fontstructions/show/904880/seed_computer">SeeD Computer font</b></kbd></a><br>
+
 <br>
 
 <h1 align="center">OBS Setup

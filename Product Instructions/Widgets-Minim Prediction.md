@@ -1,5 +1,5 @@
 <h4 align="center">
-  <img src="../Assets/iOS Notification Classic Widget - Banner.png" alt="iOS Notification Classic">
+  <img src="../Assets/Minim Prediction Widget - Banner.png" alt="Minim Prediction">
 </h4>
 
 <h4 align="center">
@@ -16,7 +16,7 @@
     <img alt="Supports Windows" src="https://img.shields.io/badge/Windows-%23FFFFFF?style=for-the-badge&logo=windows&labelColor=00a2ed">
   <br>
   <img alt="Supports Twitch" src="https://img.shields.io/badge/Supports Twitch-6441a5?style=for-the-badge&logo=twitch&logoColor=white">
-  <img alt="Supports YouTube" src="https://img.shields.io/badge/Supports YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"> 
+
 </h4>
 
 ---
@@ -29,7 +29,7 @@
 1. Complete the <kbd><b><a href="https://github.com/StreamUPTips/ReadMe-Files/blob/main/StreamUP-Product-Install-Guide.md">OBS & Streamer.Bot setup for StreamUP products</b></kbd><br></a>
 *If you have already installed a StreamUP product with Streamer.Bot v0.2.0+ then you can skip this step*
 
-2. Download & install the <kbd><b><a href="https://www.downloadfonts.io/san-francisco-font-free/">San Francisco Font</b></kbd></a><br>
+2. Download & install the <kbd><b><a href="https://www.wfonts.com/font/futura">Futura font</b></kbd></a><br>
 
 <br>
 
@@ -39,15 +39,15 @@
 
 1. Go to the scene you wish to add the alerts to. Add a new source and select <kbd><b>Scene</b></kbd><br>
 
-    <img src="../Assets/iOS Notification Classic Widget - OBS Add Scene 1.png" alt="add scene screenshot"><br>
+    <img src="../Assets/Minim Prediction Widget - OBS Add Scene 1.png" alt="add scene screenshot"><br>
 
-1. Select <kbd><b>Add Existing</b></kbd> and choose <kbd><b>StreamUP Widgets • iOS Notification Classic</b></kbd> then press <kbd><b>OK</b></kbd><br>
+1. Select <kbd><b>Add Existing</b></kbd> and choose <kbd><b>StreamUP Widgets • Minim Prediction</b></kbd> then press <kbd><b>OK</b></kbd><br>
 
-    <img src="../Assets/iOS Notification Classic Widget - OBS Add Scene 2.png" alt="add scene part 2 screenshot"><br>
+    <img src="../Assets/Minim Prediction Widget - OBS Add Scene 2.png" alt="add scene part 2 screenshot"><br>
 
 1. Adjust the size and positioning of the alerts then lock the source<br>
 
-    <img src="../Assets/iOS Notification Classic Widget - Position In OBS.png" alt="positioning scene in obs screenshot">
+    <img src="../Assets/Minim Prediction Widget - Position In OBS.png" alt="positioning scene in obs screenshot">
 
 <br>
 
@@ -55,27 +55,21 @@
         Streamer.Bot Setup
 </h1>
 
-1. Select the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>iOS Notification Classic • Settings</b></kbd><br>
+1. Select the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>Minim Prediction • Settings</b></kbd><br>
 Under the <kbd><b>Triggers</b></kbd> window on the left, right click the top trigger and press <kbd><b>Test Trigger</b></kbd><br>
 
-   <img src="../Assets/iOS Notification Classic Widget - Open Settings.png" alt="iOS Notification Classic StreamerBot open settings page"><br>
+   <img src="../Assets/Minim Prediction Widget - Open Settings.png" alt="Minim Prediction StreamerBot open settings page"><br>
 
 2. Configure the products settings and follow any prompts on screen. Make sure the <kbd><b>OBS Connection Number</b></kbd> is set<br>
 Press <kbd><b>Save</b></kbd> at the bottom of the window<br>
 
-    <img src="../Assets/iOS Notification Classic Widget - Settings 1.png" alt="iOS Notification Classic Widget settings page 1">
+    <img src="../Assets/Minim Prediction Widget - Settings 1.png" alt="Minim Prediction Widget settings page 1">
+    <img src="../Assets/Minim Prediction Widget - Settings 2.png" alt="Minim Prediction Widget settings page 2">
 
-3. To set up a trigger, head to the <kbd><b>Actions</b></kbd> tab and select <kbd><b>iOS Notification Classic • Main Action</b></kbd><br>
-In the <kbd><b>Triggers</b></kbd> window on the right side you can do one of the following:
-    1. Stay with the preset triggers for viewers <kbd><b>First Words</b></kbd>
+3.  Go to the <kbd><b>Actions</b></kbd> tab and select <kbd><b>Minim Prediction • Main Action</b></kbd><br>
+In the <kbd><b>Triggers</b></kbd> window on the right side, right click <kbd><b>Prediction Canceled</b></kbd> and press <kbd><b>Test Trigger</b></kbd>. The next time you create a prediction on Twitch the widget will appear in OBS.
 
-    2. If you do not want to use a viewers <kbd><b>First Words</b></kbd> then you can right click in the <kbd><b>Triggers</b></kbd> window and create a new one
-
-        <img src="../Assets/iOS Notification Classic Widget - Create Trigger.png" alt="iOS Notification Classic Widget create trigger in streamerbot"><br>
-
-4.  When everything is set up, right click your trigger and press <kbd><b>Test Trigger</b></kbd> then check OBS to see the widget in action<br>
-
-    <img src="../Assets/iOS Notification Classic Widget - Test Main Action.png" alt="iOS Notification Classic Widget test action in streamerbot"><br>
+      <img src="../Assets/Minim Prediction Widget - Test Main Action.png" alt="Minim Prediction Widget test action in streamerbot"><br>
 
 <br>
 

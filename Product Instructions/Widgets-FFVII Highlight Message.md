@@ -29,6 +29,11 @@
 1. Complete the <kbd><b><a href="https://github.com/StreamUPTips/ReadMe-Files/blob/main/StreamUP-Product-Install-Guide.md">OBS & Streamer.Bot setup for StreamUP products</b></kbd><br></a>
 *If you have already installed a StreamUP product with Streamer.Bot v0.2.0+ then you can skip this step*
 
+2. Download & install the <kbd><b><a href="https://www.dafont.com/reactor7.font">Reactor 7 font</b></kbd><br></a>
+Make sure to only install the <kbd><b>OpenType font file (.otf)</b></kbd><br>
+
+    <img src="../Assets/FFVII Alerts - Font Install.png" alt="Reactor .otf font install screenshot">
+    
 <br>
 
 <h1 align="center">OBS Setup
