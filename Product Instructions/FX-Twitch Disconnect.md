@@ -56,9 +56,9 @@ Under the <kbd><b>Triggers</b></kbd> window on the left, right click and create 
         Non-Full Screen Mode
 </h1>
 
-If you are using this effect with <kbd><b>Full Screen Mode</b><kbd> disabled, you will need to do some extra steps.
+If you are using this effect with <kbd><b>Full Screen Mode</b></kbd> disabled, you will need to do some extra steps.
 
-1. In the product settings you can disable <kbd><b>Full Screen Mode</b><kbd> then press <kbd><b>Save</b><kbd>. This will open a message and prompt you to select a source in OBS that you want this effect to work on. Then press <kbd><b>OK</b></kbd>
+1. In the product settings you can disable <kbd><b>Full Screen Mode</b></kbd> then press <kbd><b>Save</b></kbd>. This will open a message and prompt you to select a source in OBS that you want this effect to work on. Then press <kbd><b>OK</b></kbd>
 
     <img src="../Assets/Twitch Disconnect FX - OBS Select Source.png" alt="Twitch Disconnect FX create trigger">
 
