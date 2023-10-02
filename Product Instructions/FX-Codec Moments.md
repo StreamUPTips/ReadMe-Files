@@ -1,5 +1,5 @@
 <h4 align="center">
-  <img src="../Assets/GameLad FX - Banner.png" alt="GameLad">
+  <img src="../Assets/Codec Moments FX - Banner.png" alt="Codec Moments">
 </h4>
 
 <h4 align="center">
@@ -36,21 +36,29 @@
         OBS Setup
 </h1>
 
-1. Go to the <kbd><b>Docks</b></kbd> menu bar at the top of OBS and make sure <kbd><b>Downstream Keyer</b></kbd> is checked<br>
+1. Go to the scene you wish to start the Codec Call on. Add a new source and select <kbd><b>Scene</b></kbd><br>
 
-    <img src="../Assets/GameLad FX - OBS Add Scene 1.png" alt="add scene screenshot"><br>
+    <img src="../Assets/Codec Moments FX - OBS Add Scene 1.png" alt="add scene screenshot"><br>
 
-1. If this is the first time you have selected it, it will open a new dock in OBS. You can drag it to a part of OBS to dock it into the main UI<br>
+1. Select <kbd><b>Add Existing</b></kbd> and choose <kbd><b>StreamUP FX • Codec Moments</b></kbd> then press <kbd><b>OK</b></kbd> then lock the source<br>
 
-    <img src="../Assets/GameLad FX - OBS Add Scene 2.png" alt="add scene part 2 screenshot"><br>
+    <img src="../Assets/Codec Moments FX - OBS Add Scene 2.png" alt="add scene part 2 screenshot"><br>
 
-1. Go to the <kbd><b>StreamUP FX • GameLad</b></kbd> scene then press the <kbd><b>+</b></kbd> sign in the <kbd><b>Downstream Keyer Dock</b></kbd>
+1. Go to the <kbd><b>StreamUP FX • Codec Moments (Edit Cams Here)</b></kbd> scene and add any cameras or sources you would like to use as the two callers. Resize and reposition them to your liking 
 
-    <img src="../Assets/GameLad FX - OBS Add Scene 3.png" alt="add scene part 3 screenshot"><br>
+    <img src="../Assets/Codec Moments FX - Add Camera.png" alt="edit cameras screenshot"><br>
 
-1. Click on the <kbd><b>StreamUP FX • GameLad</b></kbd> scene in the <kbd><b>Downstream Keyer Dock</b></kbd> so that it is highlighted. This means that it is currently active. This means this scene will always be on top of all of your other scenes so this effect will always work on every scene you are on. You can now change to a different scene in OBS
+1. Go to the <kbd><b>StreamUP FX • Codec Moments</b></kbd> scene and right click the <kbd><b>Codec Moments • Waveform</b></kbd> source and select <kbd><b>Properties</b></kbd>
 
-    <img src="../Assets/GameLad FX - OBS Add Scene 4.png" alt="add scene part 4 screenshot"><br>    
+    <img src="../Assets/Codec Moments FX - Edit Waveform 1.png" alt="edit waveform 1 screenshot"><br>
+
+1. Under the <kbd><b>Audio Source</b></kbd> option. Select the audio source you would like the waveform to animate to
+
+    <img src="../Assets/Codec Moments FX - Edit Waveform 2.png" alt="edit waveform 2 screenshot"><br>
+
+1. You may want to adjust the <kbd><b>Floor</b></kbd> and <kbd><b>Ceiling</b></kbd> options to adjust the sensitivity of the waveform to your audio source
+
+    <img src="../Assets/Codec Moments FX - Edit Waveform 3.png" alt="edit waveform 3 screenshot"><br>
 
 <br>
 
@@ -58,25 +66,61 @@
         Streamer.Bot Setup
 </h1>
 
-1. Select the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>GameLad • Settings</b></kbd><br>
+1. Select the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>Codec Moments • Settings</b></kbd><br>
 Under the <kbd><b>Triggers</b></kbd> window on the left, right click the top trigger and press <kbd><b>Test Trigger</b></kbd><br>
 
-   <img src="../Assets/GameLad FX - Open Settings.png" alt="GameLad StreamerBot open settings page"><br>
+   <img src="../Assets/Codec Moments FX - Open Settings.png" alt="GameLad StreamerBot open settings page"><br>
 
 1. Configure the products settings and follow any prompts on screen. Make sure the <kbd><b>OBS Connection Number</b></kbd> is set<br>
 Press <kbd><b>Save</b></kbd> at the bottom of the window<br>
 
-    <img src="../Assets/GameLad FX - Settings 1.png" alt="GameLad FX settings page 1">
+    <img src="../Assets/Codec Moments FX - Settings 1.png" alt="Codec Moments FX settings page 1">
 
-1. You can test everything is working correctly by selecting the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>GameLad • Main Action</b></kbd><br>
-Under the <kbd><b>Triggers</b></kbd> window on the left, right click the top trigger and press <kbd><b>Test Trigger</b></kbd>. You will see the animation happen in OBS<br>
+1. To set up sound effects select the <kbd><b>Codec Moments • SFX • Codec Call Ringing</b></kbd> action. Double click the sub-action on the right and link it to a sound file on your pc then press <kbd><b>OK</b></kbd>. Repeat this process for each of the <kbd><b>SFX</b></kbd> Actions
 
-    <img src="../Assets/GameLad FX - Test Main Action.png" alt="GameLad FX testing main action in streamerbot">
+    <img src="../Assets/Codec Moments FX - SFX 1.png" alt="Codec Moments FX add sound effects">
 
-1. You need to set how you want this effect to trigger by selecting the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>GameLad • Main Action</b></kbd><br>
-Under the <kbd><b>Triggers</b></kbd> window on the left, right click and create a trigger. This is completely up to you how you cant to trigger this effect
+<h3>Example Effect</h3>
 
-    <img src="../Assets/GameLad FX - Set Trigger.png" alt="GameLad FX create trigger">
+1. In the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>Codec Moments • Channel Point Example</b></kbd>. In the <kbd><b>Triggers</b></kbd> window in the top right, right click the trigger and press <kbd><b>Edit Trigger</b></kbd> then link it to a Twitch channel point. You can press <kbd><b>OK</b></kbd> 
+
+    <img src="../Assets/Codec Moments FX - Edit Trigger.png" alt="Codec Moments FX edit example trigger in streamerbot">
+
+1. Under the <kbd><b>Triggers</b></kbd> window right click the trigger again and press <kbd><b>Test Trigger</b></kbd>. You will then see it animate in OBS<br>
+
+    <img src="../Assets/Codec Moments FX - Test Trigger.png" alt="Codec Moments FX edit example trigger in streamerbot">
+
+1. You can see how this effect works but looking under the <kbd><b>Sub-Actions</b></kbd> window in the bottom right
+
+    <img src="../Assets/Codec Moments FX - Example Action 1.png" alt="Codec Moments FX example">
+
+<h3>Creating A Custom Effect</h3>
+
+1. To create your own custom thing to happen during the codec call right click in the <kbd><b>Actions</b></kbd> window on the left and press <kbd><b>Add</b></kbd> 
+
+    <img src="../Assets/Codec Moments FX - Custom Action 1.png" alt="Codec Moments FX add custom action 1">
+
+1. Right click in the <kbd><b>Sub-Actions</b></kbd> window and select <kbd><b>Core -> Actions -> Run Action</b></kbd> 
+
+    <img src="../Assets/Codec Moments FX - Custom Action 2.png" alt="Codec Moments FX add custom action 2">
+
+1. Select the action <kbd><b>Codec Moments • Custom • 1. Codec Call Received</b></kbd> and press <kbd><b>Select</b></kbd>. Make sure you check the box that says <kbd><b>Run Action Immediately</b></kbd> then press <kbd><b>Ok</b></kbd> 
+
+    <img src="../Assets/Codec Moments FX - Custom Action 3.png" alt="Codec Moments FX add custom action 3">
+
+    <img src="../Assets/Codec Moments FX - Custom Action 4.png" alt="Codec Moments FX add custom action 4">
+
+1. Repeat this process adding the other two actions <kbd><b>Codec Moments • Custom • 2. Start Codec Call</b></kbd> and <kbd><b>Codec Moments • Custom • 3. End Codec Call</b></kbd>. Make sure you have them in order and you can add whatever things you want to happen during the codec call inbetween action 2 and 3. Make sure you include delays etc, so the codec call doesn't end immediately. Some examples would be to include TTS using <kbd><b>Speaker.Bot</b></kbd> 
+
+    <img src="../Assets/Codec Moments FX - Custom Action 5.png" alt="Codec Moments FX add custom action 5">
+
+1. Right click in the <kbd><b>Triggers</b></kbd> window and create a new trigger for how you want this effect to work
+
+    <img src="../Assets/Codec Moments FX - Custom Action 6.png" alt="Codec Moments FX add custom action 6">
+
+1. You can then right click that trigger and press <kbd><b>Test Trigger</b></kbd>. You will then see the animation happen in OBS.
+
+    <img src="../Assets/Codec Moments FX - Custom Action 7.png" alt="Codec Moments FX add custom action 7">
 
 <br>
 
