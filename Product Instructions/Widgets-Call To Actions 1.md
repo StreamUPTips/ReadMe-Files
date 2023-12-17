@@ -56,7 +56,7 @@
 </h1>
 
 1. Select the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>Call To Actions 1 • Settings</b></kbd><br>
-Under the <kbd><b>Triggers</b></kbd> window on the left, right click the top trigger and press <kbd><b>Test Trigger</b></kbd><br>
+Under the <kbd><b>Triggers</b></kbd> window on the right, right click the top trigger and press <kbd><b>Test Trigger</b></kbd><br>
 
    <img src="../Assets/Call To Actions 1 Widget - Open Settings.png" alt="Call To Actions 1 StreamerBot open settings page"><br>
 
@@ -90,7 +90,7 @@ Make sure the logo is a <kbd><b>.png</b></kbd> file and it is completely black o
     <img src="../Assets/Call To Actions 1 Widget - Custom 1.png" alt="Call To Actions 1 Widget settings page 1"><br>
 
 2. In Streamer.Bot select the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>Call To Actions 1 • Settings</b></kbd><br>
-Under the <kbd><b>Triggers</b></kbd> window on the left, right click the top trigger and press <kbd><b>Test</b></kbd><br>
+Under the <kbd><b>Triggers</b></kbd> window on the right, right click the top trigger and press <kbd><b>Test</b></kbd><br>
 
    <img src="../Assets/Call To Actions 1 Widget - Open Settings.png" alt="Call To Actions 1 StreamerBot open settings page"><br>
 

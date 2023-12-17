@@ -56,7 +56,7 @@
 <h1 align="center">Streamer.Bot Setup
 </h1>
 
-1. Select the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>FFVIII Alerts • Settings</b></kbd>, under the <kbd><b>Triggers</b></kbd> window on the left, right click the top trigger and press <kbd><b>Test Trigger</b></kbd><br>
+1. Select the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>FFVIII Alerts • Settings</b></kbd>, Under the <kbd><b>Triggers</b></kbd> window on the right, right click the top trigger and press <kbd><b>Test Trigger</b></kbd><br>
 
     <img src="../Assets/FFVIII Alerts - Open Settings.png" alt="Final Fantasy 7 StreamerBot open settings page"><br>
 

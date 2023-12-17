@@ -59,7 +59,7 @@
 </h1>
 
 1. Select the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>GameLad • Settings</b></kbd><br>
-Under the <kbd><b>Triggers</b></kbd> window on the left, right click the top trigger and press <kbd><b>Test Trigger</b></kbd><br>
+Under the <kbd><b>Triggers</b></kbd> window on the right, right click the top trigger and press <kbd><b>Test Trigger</b></kbd><br>
 
    <img src="../Assets/GameLad FX - Open Settings.png" alt="GameLad StreamerBot open settings page"><br>
 
@@ -69,12 +69,12 @@ Press <kbd><b>Save</b></kbd> at the bottom of the window<br>
     <img src="../Assets/GameLad FX - Settings 1.png" alt="GameLad FX settings page 1">
 
 1. You can test everything is working correctly by selecting the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>GameLad • Main Action</b></kbd><br>
-Under the <kbd><b>Triggers</b></kbd> window on the left, right click the top trigger and press <kbd><b>Test Trigger</b></kbd>. You will see the animation happen in OBS<br>
+Under the <kbd><b>Triggers</b></kbd> window on the right, right click the top trigger and press <kbd><b>Test Trigger</b></kbd>. You will see the animation happen in OBS<br>
 
     <img src="../Assets/GameLad FX - Test Main Action.png" alt="GameLad FX testing main action in streamerbot">
 
 1. You need to set how you want this effect to trigger by selecting the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>GameLad • Main Action</b></kbd><br>
-Under the <kbd><b>Triggers</b></kbd> window on the left, right click and create a trigger. This is completely up to you how you cant to trigger this effect
+Under the <kbd><b>Triggers</b></kbd> window on the right, right click and create a trigger. This is completely up to you how you cant to trigger this effect
 
     <img src="../Assets/GameLad FX - Set Trigger.png" alt="GameLad FX create trigger">
 

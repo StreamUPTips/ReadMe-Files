@@ -56,7 +56,7 @@
 </h1>
 
 1. Select the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>Minim Alerts • Settings</b></kbd><br>
-Under the <kbd><b>Triggers</b></kbd> window on the left, right click the top trigger and press <kbd><b>Test Trigger</b></kbd><br><br>
+Under the <kbd><b>Triggers</b></kbd> window on the right, right click the top trigger and press <kbd><b>Test Trigger</b></kbd><br><br>
   <img src="../Assets/Minim Alerts - Open Settings.png" alt="Minim alerts StreamerBot open settings page"><br>
 
 2. Configure the products settings and follow any prompts on screen. Make sure the <kbd><b>OBS Connection Number</b></kbd> is set<br>

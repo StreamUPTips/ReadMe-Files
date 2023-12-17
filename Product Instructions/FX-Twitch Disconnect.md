@@ -36,7 +36,7 @@
 </h1>
 
 1. Select the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>Twitch Disconnect • Settings</b></kbd><br>
-Under the <kbd><b>Triggers</b></kbd> window on the left, right click the top trigger and press <kbd><b>Test Trigger</b></kbd><br>
+Under the <kbd><b>Triggers</b></kbd> window on the right, right click the top trigger and press <kbd><b>Test Trigger</b></kbd><br>
 
    <img src="../Assets/Twitch Disconnect FX - Open Settings.png" alt="Twitch Disconnect StreamerBot open settings page"><br>
 
@@ -46,7 +46,7 @@ Press <kbd><b>Save</b></kbd> at the bottom of the window<br>
     <img src="../Assets/Twitch Disconnect FX - Settings 1.png" alt="Twitch Disconnect FX settings page 1">
 
 3. You need to set how you want this effect to trigger by selecting the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>Twitch Disconnect • Main Action</b></kbd><br>
-Under the <kbd><b>Triggers</b></kbd> window on the left, right click and create a trigger. This is completely up to you how you cant to trigger this effect
+Under the <kbd><b>Triggers</b></kbd> window on the right, right click and create a trigger. This is completely up to you how you cant to trigger this effect
 
     <img src="../Assets/Twitch Disconnect FX - Create Trigger.png" alt="Twitch Disconnect FX create trigger">
 

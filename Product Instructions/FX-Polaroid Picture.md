@@ -36,7 +36,7 @@
 </h1>
 
 1. Select the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>Polaroid Picture • Settings</b></kbd><br>
-Under the <kbd><b>Triggers</b></kbd> window on the left, right click the top trigger and press <kbd><b>Test Trigger</b></kbd><br>
+Under the <kbd><b>Triggers</b></kbd> window on the right, right click the top trigger and press <kbd><b>Test Trigger</b></kbd><br>
 
    <img src="../Assets/Polaroid Picture FX - Open Settings.png" alt="Polaroid Picture StreamerBot open settings page"><br>
 
@@ -67,7 +67,7 @@ Press <kbd><b>Save</b></kbd> at the bottom of the window<br>
         <img src="../Assets/Polaroid Picture FX - OBS Setup 3.png" alt="Polaroid Picture FX select source">  
 
 5. You need to set how you want this effect to trigger by selecting the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>Polaroid Picture • Main Action</b></kbd><br>
-Under the <kbd><b>Triggers</b></kbd> window on the left, right click the <kbd><b>Reward Redemption</b></kbd> trigger. Either create a new reward or add it to one that already exists (make sure it has <kbd><b>User Input Required</b></kbd> enabled) then press <kbd><b>OK</b></kbd>
+Under the <kbd><b>Triggers</b></kbd> window on the right, right click the <kbd><b>Reward Redemption</b></kbd> trigger. Either create a new reward or add it to one that already exists (make sure it has <kbd><b>User Input Required</b></kbd> enabled) then press <kbd><b>OK</b></kbd>
 
     <img src="../Assets/Polaroid Picture FX - Edit Trigger 1.png" alt="Polaroid Picture FX edit trigger">  
     <img src="../Assets/Polaroid Picture FX - Edit Trigger 2.png" alt="Polaroid Picture FX edit trigger">  
