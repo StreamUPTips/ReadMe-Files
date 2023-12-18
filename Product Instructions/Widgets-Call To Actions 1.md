@@ -29,7 +29,7 @@
 1. Complete the <kbd><b><a href="https://github.com/StreamUPTips/ReadMe-Files/blob/main/StreamUP-Product-Install-Guide.md">OBS & Streamer.Bot setup for StreamUP products</b></kbd><br></a>
 *If you have already installed a StreamUP product with Streamer.Bot v0.2.0+ then you can skip this step*
 
-2. Download & install the <kbd><b><a href="https://www.downloadfonts.io/san-francisco-font-free/">San Francisco Font</b></kbd></a><br>
+2. Download & install the <kbd><b><a href="https://www.downloadfonts.io/san-francisco-font-free/">San Francisco Font</b></kbd></a>. You need to install all the fonts in the <kbd><b>SFUIText</kbd></a>, <kbd><b>SFUIDisplay</kbd></a> and <kbd><b>pro</kbd></a> folders <br>
 
 <br>
 
