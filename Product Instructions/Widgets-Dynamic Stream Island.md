@@ -91,7 +91,7 @@ To finish the setup you will need to enable some commands and features in Stream
 
     <img src="../Assets/Dynamic Stream-Island - Finalise 1.png" alt="Dynamic Stream-Island - Enable Chat Commands"><br>
 
-2. Head to the <kbd><b>Settings -> Timed Actions</b></kbd> tab. Right click <kbd><b>DSI • Rotator Timer</b></kbd>, press <kbd><b>Enabled</b></kbd><br>
+2. Head to the <kbd><b>Settings -> Timed Actions</b></kbd> tab. Right click <kbd><b>DSI • Rotator Timer</b></kbd>, press <kbd><b>Enabled</b></kbd><br> Please note: If you do not see the <kbd><b>DSI • Rotator Timer</b></kbd> then you can right click and press <kbd><b>Add</b></kbd> then create one manually. Set the timer to 20 seconds. You will then need to open the Rotator action and link that Timed Action to the trigger there.
 
     <img src="../Assets/Dynamic Stream-Island - Finalise 2.png" alt="Dynamic Stream-Island - Enable Timer Commands"><br>
 
