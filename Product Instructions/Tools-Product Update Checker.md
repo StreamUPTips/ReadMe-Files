@@ -25,7 +25,7 @@
 
    <img src="../Assets/Product Update Checker - Import 1.png" alt="StreamerBot import ui screenshot">
 
-2. Navigate to the <kbd><b>3 - BOT INSTALL\STREAMER.BOT</b></kbd> folder. Drag & drop the <kbd><b>.sb</b></kbd> into the <kbd><b>Import String</kbd></b> field. Press <kbd><b>Import</b></kbd><br><br>
+2. Navigate to the <kbd><b>1 - BOT INSTALL\STREAMER.BOT</b></kbd> folder. Drag & drop the <kbd><b>.sb</b></kbd> into the <kbd><b>Import String</kbd></b> field. Press <kbd><b>Import</b></kbd><br><br>
     <img src="../Assets/Product Update Checker - Import 2.png" alt=".SB file import screenshot">
     <img src="../Assets/Product Update Checker - Import 3.png" alt=".SB file import screenshot"><br>
     > <h4>Important Note</h4>
