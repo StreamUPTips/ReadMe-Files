@@ -4,7 +4,7 @@
 
 
 <h4 align="center">
-  <a href="https://andistonemedia.mystl.ink">
+  <a href="https://doras.to/andilippi">
     <img alt="A link to all of Andi's links" src="https://img.shields.io/badge/Created%20by%20Andi%20Stone%20(Andilippi)-white?style=for-the-badge">
   </a>
   <br><br>
@@ -83,7 +83,7 @@ In the <kbd><b>Triggers</b></kbd> window on the right side, right click a trigge
 
 <h4 align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/A%20StreamUP%20Product-%23fc6caf?style=for-the-badge"><br>
-  <a href="https://andistonemedia.mystl.ink">
+  <a href="https://doras.to/andilippi">
     <img alt="A link to all of Andi's links" src="https://img.shields.io/badge/Created%20by%20Andi%20Stone%20(Andilippi)-white?style=for-the-badge">
   </a>  
 </h4>
