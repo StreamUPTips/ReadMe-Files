@@ -1,5 +1,5 @@
 <h4 align="center">
-  <img src="../Assets/Live SB Log - Banner.png" alt="Live SB Log">
+  <img src="../Assets/Live Streamer.Bot Log - Banner.png" alt="Live SB Log">
 </h4>
 
 <h4 align="center">
