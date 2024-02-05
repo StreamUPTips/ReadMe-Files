@@ -1,5 +1,5 @@
 <h4 align="center">
-  <img src="../Assets/On Screen Message 1 Widget - Banner.png" alt="On Screen Message 1">
+  <img src="../Assets/Twitch Plus Program Points Bar - Banner.png" alt="Twitch Plus Program Points Bar">
 </h4>
 
 <h4 align="center">
@@ -16,7 +16,6 @@
     <img alt="Supports Windows" src="https://img.shields.io/badge/Windows-%23FFFFFF?style=for-the-badge&logo=windows&labelColor=00a2ed">
   <br>
   <img alt="Supports Twitch" src="https://img.shields.io/badge/Supports Twitch-6441a5?style=for-the-badge&logo=twitch&logoColor=white">
-  <img alt="Supports YouTube" src="https://img.shields.io/badge/Supports YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"> 
 </h4>
 
 ---
@@ -29,7 +28,7 @@
 1. Complete the <kbd><b><a href="https://github.com/StreamUPTips/ReadMe-Files/blob/main/StreamUP-Product-Install-Guide.md">OBS & Streamer.Bot setup for StreamUP products</b></kbd><br></a>
 *If you have already installed a StreamUP product with Streamer.Bot v0.2.0+ then you can skip this step*
 
-2. Download & install the <kbd><b><a href="https://fonts.google.com/specimen/Nunito">Nunito font family</b></kbd></a><br>
+2. Download & install the <kbd><b><a href="https://fonts.google.com/specimen/Inter">Inter font family</b></kbd></a><br>
 
 <br>
 
@@ -39,15 +38,15 @@
 
 1. Go to the scene you wish to add the alerts to. Add a new source and select <kbd><b>Scene</b></kbd><br>
 
-    <img src="../Assets/On Screen Message 1 Widget - OBS Add Scene 1.png" alt="add scene screenshot"><br>
+    <img src="../Assets/Twitch Plus Program Points Bar - OBS Add Scene 1.png" alt="add scene screenshot"><br>
 
-1. Select <kbd><b>Add Existing</b></kbd> and choose <kbd><b>StreamUP Widgets • On Screen Message 1</b></kbd> then press <kbd><b>OK</b></kbd><br>
+1. Select <kbd><b>Add Existing</b></kbd> and choose <kbd><b>StreamUP Widgets • Twitch Plus Program Points Bar</b></kbd> then press <kbd><b>OK</b></kbd><br>
 
-    <img src="../Assets/On Screen Message 1 Widget - OBS Add Scene 2.png" alt="add scene part 2 screenshot"><br>
+    <img src="../Assets/Twitch Plus Program Points Bar - OBS Add Scene 2.png" alt="add scene part 2 screenshot"><br>
 
 1. Adjust the size and positioning of the alerts then lock the source<br>
 
-    <img src="../Assets/On Screen Message 1 Widget - Position In OBS.png" alt="positioning scene in obs screenshot">
+    <img src="../Assets/Twitch Plus Program Points Bar - Position In OBS.png" alt="positioning scene in obs screenshot">
 
 <br>
 
@@ -55,42 +54,30 @@
         Streamer.Bot Setup
 </h1>
 
-1. Select the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>On Screen Message 1 • Settings</b></kbd><br>
+1. Select the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>Twitch Plus Program Points Bar • Settings</b></kbd><br>
 Under the <kbd><b>Triggers</b></kbd> window on the right, right click the top trigger and press <kbd><b>Test Trigger</b></kbd><br>
 
-   <img src="../Assets/On Screen Message 1 Widget - Open Settings.png" alt="On Screen Message 1 StreamerBot open settings page"><br>
+   <img src="../Assets/Twitch Plus Program Points Bar - Open Settings.png" alt="Twitch Plus Program Points Bar StreamerBot open settings page"><br>
 
 2. Configure the products settings and follow any prompts on screen. Make sure the <kbd><b>OBS Connection Number</b></kbd> is set<br>
 Press <kbd><b>Save</b></kbd> at the bottom of the window<br>
 
-    <img src="../Assets/On Screen Message 1 Widget - Settings 1.png" alt="On Screen Message 1 Widget settings page 1">
+    <img src="../Assets/Twitch Plus Program Points Bar - Settings 1.png" alt="Twitch Plus Program Points Bar Widget settings page 1">
 
-3. You need to set an action for how you want to remove the message from the screen. Head to the <kbd><b>Actions</b></kbd> tab and select <kbd><b>On Screen Message 1 • Main Action</b></kbd><br>
-In the <kbd><b>Triggers</b></kbd> window on the right side, right click in and create a new one. You can also use the Streamer.Bot Stream Deck plugin to trigger this action too
+3. We can now test it is all working. Head to the <kbd><b>Actions</b></kbd> tab and select <kbd><b>Twitch Plus Program Points Bar • Main Action</b></kbd><br>
+In the <kbd><b>Triggers</b></kbd> window on the right side, double click the <kbd><b>Test</b></kbd> trigger. You can set a number in here for how many Plus Points you are on currently.
 
-      <img src="../Assets/On Screen Message 1 Widget - Chat 6.png" alt="On Screen Message 1 Widget test action in streamerbot"><br>
-
-<h1 align="center">
-        How To Use
-</h1>
-
-1. To Get a message to appear on screen in OBS. In Streamer.Bot click the <kbd><b>Chat</b></kbd> button 
-
-      <img src="../Assets/On Screen Message 1 Widget - Chat 1.png" alt="On Screen Message 1 Widget test action in streamerbot"><br>
-
-2. Click the settings cog wheel in the bottom right    
-
-      <img src="../Assets/On Screen Message 1 Widget - Chat 2.png" alt="On Screen Message 1 Widget test action in streamerbot"><br>
-
-3. Under the <kbd><b>Quick Action Bar</b></kbd>, select an unused number and click the dropdown. Then select <kbd><b>On Screen Message 1 • Main Action</b></kbd> then close this side bar down
-
-      <img src="../Assets/On Screen Message 1 Widget - Chat 3.png" alt="On Screen Message 1 Widget test action in streamerbot"><br>
-      <img src="../Assets/On Screen Message 1 Widget - Chat 4.png" alt="On Screen Message 1 Widget test action in streamerbot"><br>
-<br>
-
-4. Now to display a message just highlight one in the chat window and press the correspoding number you selected previously. To remove it, use whatever trigger you set in the Streamer.Bot setup process
-
-      <img src="../Assets/On Screen Message 1 Widget - Chat 5.png" alt="On Screen Message 1 Widget test action in streamerbot"><br>
+      <img src="../Assets/Twitch Plus Program Points Bar - Test Button 1.png" alt="Twitch Plus Program Points Bar Widget test action in streamerbot"><br>
+      <img src="../Assets/Twitch Plus Program Points Bar - Test Button 2.png" alt="Twitch Plus Program Points Bar Widget test action in streamerbot"><br>
+    > You can pull how many Plus Points you are on by going to your [Twitch Dashboard / Overview](https://link.twitch.tv/EarningsDashboard). Select the current month, organise it by month on the right. Select subscriptions from the options above. When you highlight over the bar, you will see your <kbd><b>Total Plus Points</b></kbd>
+      <img src="../Assets/Twitch Plus Program Points Bar - Twitch 1.png" alt="Twitch Plus Program Points Bar Widget test action in streamerbot"><br>
+      <img src="../Assets/Twitch Plus Program Points Bar - Twitch 2.png" alt="Twitch Plus Program Points Bar Widget test action in streamerbot"><br>
+      
+4. Now when you receive a Tier 1, Tier 2 or Tier 3 Subscription the points will be added. Remember the following:
+    > The Plus Points are not in the Twitch API at the moment so the points will only trigger whilst Streamer.Bot is open. I recommend looking at the dashboard before each stream to make sure you are up to date with the current Plus Points amount.<br><br>
+Tier 1 = 1 Plus Point<br>
+Tier 2 = 2 Plus Points<br>
+Tier 3 = 6 Plus Points
 
 <br>
 
