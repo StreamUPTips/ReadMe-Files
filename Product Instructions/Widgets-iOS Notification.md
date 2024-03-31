@@ -29,7 +29,12 @@
 1. Complete the <kbd><b><a href="https://github.com/StreamUPTips/ReadMe-Files/blob/main/StreamUP-Product-Install-Guide.md">OBS & Streamer.Bot setup for StreamUP products</b></kbd><br></a>
 *If you have already installed a StreamUP product with Streamer.Bot v0.2.0+ then you can skip this step*
 
-2. Download & install the <kbd><b><a href="https://www.downloadfonts.io/san-francisco-font-free/">San Francisco Font</b></kbd></a>. You need to install all the fonts in the <kbd><b>SFUIText</kbd></a>, <kbd><b>SFUIDisplay</kbd></a> and <kbd><b>pro</kbd></a> folders <br>
+2. Grab the <kbd><b>StreamUP.dll</b></kbd> file from the same discord you downloaded this product from, copy the <kbd><b>StreamUP.dll</b></kbd> to the following location in your Streamer.Bot file directory: <kbd><b>StreamerBotFolder\\dlls</b></kbd>
+
+    <img src="../Assets/General - StreamUP dll 1.png" alt="add scene screenshot"><br>
+    <img src="../Assets/General - StreamUP dll 2.png" alt="add scene screenshot"><br>
+
+3. Download & install the <kbd><b><a href="https://www.downloadfonts.io/san-francisco-font-free/">San Francisco Font</b></kbd></a>. You need to install all the fonts in the <kbd><b>SFUIText</kbd></a>, <kbd><b>SFUIDisplay</kbd></a> and <kbd><b>pro</kbd></a> folders <br>
 
 <br>
 
