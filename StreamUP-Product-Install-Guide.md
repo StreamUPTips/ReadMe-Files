@@ -6,7 +6,7 @@
         <img alt="Supports OBS Studio version 28 and above" src="https://img.shields.io/badge/OBS Studio-28%2B-FFFFFF?style=for-the-badge&labelColor=1e1a1d">
     </a>
     <a href="https://streamer.bot">
-        <img alt="Supports Streamer.Bot version 0.2.0 and above" src="https://img.shields.io/badge/Streamer.Bot-v0.2.0+-%23FFFFFF?style=for-the-badge&labelColor=9038e8">
+        <img alt="Supports Streamer.Bot version 0.2.3 and above" src="https://img.shields.io/badge/Streamer.Bot-v0.2.3+-%23FFFFFF?style=for-the-badge&labelColor=9038e8">
     </a>
     <img alt="Supports Windows" src="https://img.shields.io/badge/Windows-%23FFFFFF?style=for-the-badge&logo=windows&labelColor=00a2ed">
 </h3>
@@ -47,6 +47,33 @@
 2. Navigate to the <kbd><b>2 - OBS INSTALL</b></kbd> folder and open the <kbd><b>.StreamUP</b></kbd> file. This will create a new scene/s in OBS<br>
 
     <img src="Assets/General - Install StreamUP File.png" alt="Install .StreamUP file screenshot">
+
+<br>
+
+<h1 align="center">
+        Preparing Streamer.Bot
+</h1>
+
+> <h4>Please Note</h4>
+> If the following file doesn't exist in the download, don't worry! It just means that it is not currently required for that particular product.<br>
+
+<br>
+
+1. Navigate to the <kbd><b>3 - STREAMER.BOT INSTALL</kbd></b> folder and copy/cut the <kbd><b>StreamUP_Library_Updater.exe</kbd></b> file
+
+    <img src="Assets/SB-Library-1.png" alt="Install StreamUP Library"><br>
+
+2. Navigate to your Streamer.Bot folder and paste the file into the root of it.
+
+    <img src="Assets/SB-Library-2.png" alt="Install StreamUP Library"><br>
+
+3. Double click the <kbd><b>StreamUP_Library_Updater.exe<kbd><b> to open it up.
+
+    <img src="Assets/SB-Library-3.png" alt="Install StreamUP Library"><br>
+
+4. Hit the <kbd><b>Download</kbd></b> or <kbd><b>Update</kbd></b> button. When you are all up to date, you can close this window
+
+    <img src="Assets/SB-Library-4.png" alt="Install StreamUP Library"><br>
 
 <br>
 
