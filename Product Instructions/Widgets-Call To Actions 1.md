@@ -11,7 +11,7 @@
         <img alt="Supports OBS Studio version 28 and above" src="https://img.shields.io/badge/OBS Studio-28%2B-FFFFFF?style=for-the-badge&labelColor=1e1a1d">
     </a>
     <a href="https://streamer.bot">
-        <img alt="Supports Streamer.Bot version 0.2.0 and above" src="https://img.shields.io/badge/Streamer.Bot-v0.2.0+-%23FFFFFF?style=for-the-badge&labelColor=9038e8">
+        <img alt="Supports Streamer.Bot version 0.2.3 and above" src="https://img.shields.io/badge/Streamer.Bot-v0.2.3+-%23FFFFFF?style=for-the-badge&labelColor=9038e8">
     </a>
     <img alt="Supports Windows" src="https://img.shields.io/badge/Windows-%23FFFFFF?style=for-the-badge&logo=windows&labelColor=00a2ed">
   <br>
@@ -27,7 +27,7 @@
 </h1>
 
 1. Complete the <kbd><b><a href="https://github.com/StreamUPTips/ReadMe-Files/blob/main/StreamUP-Product-Install-Guide.md">OBS & Streamer.Bot setup for StreamUP products</b></kbd><br></a>
-*If you have already installed a StreamUP product with Streamer.Bot v0.2.0+ then you can skip this step*
+*If you have already installed a StreamUP product with Streamer.Bot v0.2.3+ then you can skip this step*
 
 2. Download & install the <kbd><b><a href="https://www.downloadfonts.io/san-francisco-font-free/">San Francisco Font</b></kbd></a>. You need to install all the fonts in the <kbd><b>SFUIText</kbd></a>, <kbd><b>SFUIDisplay</kbd></a> and <kbd><b>pro</kbd></a> folders <br>
 
