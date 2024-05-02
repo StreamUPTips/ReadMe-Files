@@ -1,0 +1,117 @@
+<h4 align="center">
+  <img src="../Assets/Digital Ticker - Banner.png" alt="Digital Ticker inspired alerts">
+</h4>
+
+<h4 align="center">
+  <a href="https://doras.to/andilippi">
+    <img alt="A link to all of Andi's links" src="https://img.shields.io/badge/Created%20by%20Andi%20Stone%20(Andilippi)-white?style=for-the-badge">
+  </a>
+  <br><br>
+    <a href="https://obsproject.com">
+        <img alt="Supports OBS Studio version 28 and above" src="https://img.shields.io/badge/OBS Studio-28%2B-FFFFFF?style=for-the-badge&labelColor=1e1a1d">
+    </a>
+    <a href="https://streamer.bot">
+        <img alt="Supports Streamer.Bot version 0.2.3 and above" src="https://img.shields.io/badge/Streamer.Bot-v0.2.3+-%23FFFFFF?style=for-the-badge&labelColor=9038e8">
+    </a>
+    <img alt="Supports Windows" src="https://img.shields.io/badge/Windows-%23FFFFFF?style=for-the-badge&logo=windows&labelColor=00a2ed">
+  <br>
+  <img alt="Supports Twitch" src="https://img.shields.io/badge/Supports Twitch-6441a5?style=for-the-badge&logo=twitch&logoColor=white">
+  <img alt="Supports YouTube" src="https://img.shields.io/badge/Supports YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"> 
+</h4>
+
+---
+
+<br>
+
+<h1 align="center">Initial Setup
+</h1>
+
+1. Complete the <kbd><b><a href="https://github.com/StreamUPTips/ReadMe-Files/blob/main/StreamUP-Product-Install-Guide.md">OBS & Streamer.Bot setup for StreamUP products</b></kbd><br></a>
+*If you have already installed a StreamUP product with Streamer.Bot v0.2.3+ then you can skip this step*
+
+2. Download & install the <kbd><b><a href="https://www.dafont.com/digital-7.font">Digital 7 font</b></kbd><br></a>
+
+    <img src="../Assets/Digital Ticker - Install Font.png" alt="Reactor .otf font install screenshot">
+
+<br>
+
+<h1 align="center">OBS Setup
+</h1>
+<h3>Adding the Alerts to Other Scenes</h3>
+
+1. Go to the scene you wish to add the alerts to. Add a new source and select <kbd><b>Scene</b></kbd><br>
+
+    <img src="../Assets/Digital Ticker - OBS Add Scene 1.png"><br>
+
+2. Select <kbd><b>Add Existing</b></kbd> and choose <kbd><b>StreamUP Alerts • FFVII</b></kbd> then press <kbd><b>OK</b></kbd><br>
+
+    <img src="../Assets/Digital Ticker - OBS Add Scene 2.png"><br>
+
+3. Adjust the size and positioning of the alerts then lock the source<br>
+
+    <img src="../Assets/Digital Ticker - Position In OBS.png">
+<br>
+
+4. Right click the <kbd><b>StreamUP Widgets • Digital Ticker</b></kbd> and adjust the <kbd><b>Show / Hide Transitions</b></kbd> to your liking and remember the <kbd><b>Duration</b></kbd> amount.
+
+    <img src="../Assets/Digital Ticker - OBS Show Hide.png">
+<br>
+
+<h1 align="center">Streamer.Bot Setup
+</h1>
+
+1. Select the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>Digital Ticker • Settings</b></kbd><br>
+Under the <kbd><b>Triggers</b></kbd> window on the right, right click the top trigger and press <kbd><b>Test Trigger</b></kbd><br><br>
+  <img src="../Assets/Digital Ticker - Open Settings.png" alt="Digital Ticker StreamerBot open settings page"><br>
+
+2. Configure the products settings and follow any prompts on screen. Make sure the <kbd><b>OBS Connection Number</b></kbd> is set<br>
+Press <kbd><b>Save</b></kbd> at the bottom of the window<br>
+
+    <img src="../Assets/Digital Ticker - Settings 1.png" alt="Digital Ticker settings page 1">
+
+3. To test everything is working okay, head to the <kbd><b>Actions</b></kbd> tab and select <kbd><b>Digital Ticker • Main Action</b></kbd><br>
+In the <kbd><b>Triggers</b></kbd> window on the right side, right click a trigger and press <kbd><b>Test</b></kbd>, check OBS to see the alerts in action<br>
+
+    <img src="../Assets/Digital Ticker - Test Main Action.png" alt="Digital Ticker test action in streamerbot"><br>
+
+4. You can enable / disable the triggers you want to use by right clicking each trigger and clicking <kbd><b>Enabled</b></kbd>. You can also try adding other triggers such as <kbd><b>Twitch Reward Redemption</b></kbd>.
+
+    <img src="../Assets/Digital Ticker - Enable Triggers.png" alt="Digital Ticker test action in streamerbot"><br>
+
+<h1 align="center">Auto Show / Hide Setup
+</h1>
+
+1. Select the <kbd><b>Actions</b></kbd> tab. Under the <kbd><b>Actions</b></kbd> window on the left select <kbd><b>Digital Ticker • Main Action</b></kbd><br>
+Under the <kbd><b>Sub-Actions</b></kbd> window in the bottom right. Right click and go to <kbd><b>OBS -> Sources -> Set Source Visibility State</b></kbd>.
+
+    <img src="../Assets/Digital Ticker - ShowHide 1.png"><br>
+
+2. Select the current scene and the source <kbd><b>StreamUP Widgets • Digital Ticker</b></kbd> and select the state <kbd><b>Visible</b></kbd> and press <kbd><b>Ok</b></kbd>.
+
+    <img src="../Assets/Digital Ticker - ShowHide 2.png"><br>
+
+3. Right click and go to <kbd><b>Core -> Delay</b></kbd>. Set the amount to the Show and Hide Transition amount you set earlier.
+
+    <img src="../Assets/Digital Ticker - Delay 1.png"><br>
+
+4. Repeat the previous 3 steps but this time set the <kbd><b>Source Visibility State</b></kbd> to <kbd><b>Hidden</b></kbd>. It should look like the screenshot below when complete.
+
+    <img src="../Assets/Digital Ticker - Complete.png"><br>
+<h1 align="center">
+        Frequently Asked Questions
+</h1>
+
+<br>
+
+*For any further questions or support, join the [StreamUP Discord server](https://discord.com/invite/RnDKRaVCEu?)*
+
+---
+
+<br>
+
+<h4 align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/A%20StreamUP%20Product-%23fc6caf?style=for-the-badge"><br>
+  <a href="https://doras.to/andilippi">
+    <img alt="A link to all of Andi's links" src="https://img.shields.io/badge/Created%20by%20Andi%20Stone%20(Andilippi)-white?style=for-the-badge">
+  </a>  
+</h4>
