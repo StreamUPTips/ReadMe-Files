@@ -48,10 +48,10 @@ That's it! The automatic way is now set up and ready to use!
 If you going to create your rewards make sure you set the correct settings:
 (You can click on 'Create Reward' in the Selection Window)
 
-Black Card Settings:
+Black Card Settings:  
 • Fill in all the channel point information on this page that popped out for the black card.
 
-White Card Settings:
+White Card Settings:  
 • Fill in all the channel point information on this page that popped out for the white card, _make sure to press the checkbox 'User Input Required'_.
 
 Black Card Sub-Actions:
