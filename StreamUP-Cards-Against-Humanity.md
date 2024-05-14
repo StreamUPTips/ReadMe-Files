@@ -50,18 +50,20 @@ If you going to create your rewards make sure you set the correct settings:
 (You can click on 'Create Reward' in the Selection Window)
 
 Black Card Settings:
-> Fill in all the channel point information on this page that popped out for the black card.
+• Fill in all the channel point information on this page that popped out for the black card.
 
 White Card Settings:
-> Fill in all the channel point information on this page that popped out for the white card, _make sure to press the checkbox 'User Input Required'_.
+• Fill in all the channel point information on this page that popped out for the white card, _make sure to press the checkbox 'User Input Required'_.
 
-6. Go to the 'Actions' tab at the top. Click on 'StreamUP Widgets - Cards Against Humanity - Black Redeem'
-7. You should see 2 'Reward Set Enabled State' subactions with unknown it. Double click the top one and select your newly created reward for the black card and press Ok
-8. On the bottom 'Reward Set Enabled State' you set the reward you created for the White Card and press Ok.
-9. On the same tab go to 'StreamUP Widgets - Cards Against Humanity - White Redeem'.
-10. On the top 'Reward Set Enabled State' select your White Reward and press Ok.
-11. On the bottom 'Reward Set Enabled State' select your Black Reward and press Ok.
-12. That's it! The separate way is now set up and ready to use!
+Black Card Sub-Actions:
+1. You should see 2 'Reward Set Enabled State' subactions with unknown it. Double click the top one and select your newly created reward for the black card and press Ok
+2. On the bottom 'Reward Set Enabled State' you set the reward you created for the White Card and press Ok.
+
+White Card Sub-Actions:
+1. On the top 'Reward Set Enabled State' select your White Reward and press Ok.
+2. On the bottom 'Reward Set Enabled State' select your Black Reward and press Ok.
+
+That's it! The separate way is now set up and ready to use!
 
 If it is not working when you test the Channel Point, it is most likely that you do not have one of the Prerequisites installed.
 
