@@ -29,27 +29,38 @@ With the seperate rewards you can make chat fill in the white card. But be aware
   
 #### Automatic cards
 
-1. Got to the 'Channel Point Rewards' tab at the top. Right click in the box below and press 'Add'.
+1. In the triggers windows, double click on 'Twitch > Channel Reward'
+2. Create or Select your Cards against Humanity Reward
+
+If you going to create your rewards make sure you set the correct settings:
+(You can click on 'Create Reward' in the Selection Window)
+
+1. Make sure to create a new channel point reward
 2. Fill in all the channel point information on this page that popped out.
-3. Set the Global Cooldown to atleast 20 seconds or more.
-4. At the bottom under 'Other Settings'. Press the dropdown menu next to 'Action' and select 'StreamUP Widgets - Cards Against Humanity - Automatic'.
+3. Set the Global Cooldown to **atleast** 20 seconds or more.
+4. Go back to the actions tab en select the trigger you've created earlier and 
 5. That's it! The automatic way is now set up and ready to use!
 
 #### Separate Cards
 
-1. Got to the 'Channel Point Rewards' tab at the top. Right click in the box below and press 'Add'.
-2. Fill in all the channel point information on this page that popped out for the black card.
-3. At the bottom under 'Other Settings'. Press the dropdown menu next to 'Action' and select 'StreamUP Widgets - Cards Against Humanity - Black Redeem' and press Ok.
-4. On the same page add another reward
-5. Fill in all the channel point information on this page that popped out for the white card, make sure to press the checkbox 'User Input Required'.
-6. At the bottom under 'Other Settings'. Press the dropdown menu next to 'Action' and select 'StreamUP Widgets - Cards Against Humanity - White Redeem' and press Ok.
-7. Go to the 'Actions' tab at the top. Click on 'StreamUP Widgets - Cards Against Humanity - Black Redeem'
-8. You should see 2 'Reward Set Enabled State' subactions with unknown it. Double click the top one and select your newly created reward for the black card and press Ok
-9. On the bottom 'Reward Set Enabled State' you set the reward you created for the White Card and press Ok.
-10. On the same tab go to 'StreamUP Widgets - Cards Against Humanity - White Redeem'.
-11. On the top 'Reward Set Enabled State' select your White Reward and press Ok.
-12. On the bottom 'Reward Set Enabled State' select your Black Reward and press Ok.
-13. That's it! The separate way is now set up and ready to use!
+1. On the 'StreamUP Widgets - Cards Against Humanity - Black Redeem' &  'StreamUP Widgets - Cards Against Humanity - White Redeem' action trigger window, double click on 'Twitch > Channel Reward'
+2. Create or Select your Black and / or White Cards against Humanity Reward Redeem
+   
+If you going to create your rewards make sure you set the correct settings:
+(You can click on 'Create Reward' in the Selection Window)
+
+Black Card Settings:
+1. Fill in all the channel point information on this page that popped out for the black card.
+White Card Settings:
+2. Fill in all the channel point information on this page that popped out for the white card, _make sure to press the checkbox 'User Input Required'_.
+
+6. Go to the 'Actions' tab at the top. Click on 'StreamUP Widgets - Cards Against Humanity - Black Redeem'
+7. You should see 2 'Reward Set Enabled State' subactions with unknown it. Double click the top one and select your newly created reward for the black card and press Ok
+8. On the bottom 'Reward Set Enabled State' you set the reward you created for the White Card and press Ok.
+9. On the same tab go to 'StreamUP Widgets - Cards Against Humanity - White Redeem'.
+10. On the top 'Reward Set Enabled State' select your White Reward and press Ok.
+11. On the bottom 'Reward Set Enabled State' select your Black Reward and press Ok.
+12. That's it! The separate way is now set up and ready to use!
 
 If it is not working when you test the Channel Point, it is most likely that you do not have one of the Prerequisites installed.
 
