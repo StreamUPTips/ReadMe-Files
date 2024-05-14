@@ -9,21 +9,12 @@
 ### Prerequisites
 - [OBS Studio 28+](https://obsproject.com/)
 - [StreamUP Recommended Plugins](https://streamup.tips/product/plugin-installer)
-- [Streamer.bot](https://streamer.bot) or [SAMMI](https://sammi.solutions)
+- [Streamer.bot](https://streamer.bot)
 - [Inter font family](https://rsms.me/inter/)
 
 ## Installation Instructions
 Please, make sure you have all the prerequisites installed before performing the product installation itself.  
 Be sure to have OBS closed when installing these plugins.
-
-## SAMMI instructions
-1. Unpack the downloaded zip file to a folder of your choosing. There should be a folder created called 'StreamUP - Cards Against Humanity'. Be sure not to move it after installing this product!
-2. Open OBS Studio, press 'Tools' from the top menu bar. Press 'StreamUP'.
-3. Navigate to the 'StreamUP - Cards Against Humanity' folder you extracted earlier and select the '.StreamUP' file. This will create a new OBS scene.
-4. Open SAMMI, click on Bridge and click on 'Install an Extension'
-5. Navigate to the 'StreamUP - Cards Against Humanity' folder you extracted earlier, go into the bot install folder and after that go into the SAMMI folder and select the '.SEF' file.
-6. The installer will run and ask you to fill in your twitch name and make sure to fill it in!
-7. When the installer is done it will give you a notification and it is ready to use!
 
 ## Streamer.bot instructions
 
