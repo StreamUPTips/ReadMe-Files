@@ -35,11 +35,10 @@ With the seperate rewards you can make chat fill in the white card. But be aware
 If you going to create your rewards make sure you set the correct settings:
 (You can click on 'Create Reward' in the Selection Window)
 
-1. Make sure to create a new channel point reward
-2. Fill in all the channel point information on this page that popped out.
-3. Set the Global Cooldown to **atleast** 20 seconds or more.
-4. Go back to the actions tab en select the trigger you've created earlier and 
-5. That's it! The automatic way is now set up and ready to use!
+1. Fill in all the channel point information on this page that popped out.
+2. Set the Global Cooldown to **atleast** 20 seconds or more.
+   
+That's it! The automatic way is now set up and ready to use!
 
 #### Separate Cards
 
