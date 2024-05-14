@@ -50,9 +50,10 @@ If you going to create your rewards make sure you set the correct settings:
 (You can click on 'Create Reward' in the Selection Window)
 
 Black Card Settings:
-1. Fill in all the channel point information on this page that popped out for the black card.
+> Fill in all the channel point information on this page that popped out for the black card.
+
 White Card Settings:
-2. Fill in all the channel point information on this page that popped out for the white card, _make sure to press the checkbox 'User Input Required'_.
+> Fill in all the channel point information on this page that popped out for the white card, _make sure to press the checkbox 'User Input Required'_.
 
 6. Go to the 'Actions' tab at the top. Click on 'StreamUP Widgets - Cards Against Humanity - Black Redeem'
 7. You should see 2 'Reward Set Enabled State' subactions with unknown it. Double click the top one and select your newly created reward for the black card and press Ok
