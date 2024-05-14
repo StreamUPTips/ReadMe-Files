@@ -21,8 +21,8 @@ Be sure to have OBS closed when installing these plugins.
 1. Unpack the downloaded zip file to a folder of your choosing. There should be a folder created called 'StreamUP - Cards Against Humanity'. Be sure not to move it after installing this product!
 2. Open OBS Studio, press 'Tools' from the top menu bar. Press 'StreamUP'.
 3. Navigate to the 'StreamUP - Cards Against Humanity' folder you extracted earlier and select the '.StreamUP' file. This will create a new OBS scene.
-4. Open Streamer.Bot, go to the 'Actions' tab at the top. Right click anywhere in the 'Actions' box on the left. Press 'Import'.
-5. Drag and drop the 'Streamer.Bot Install' text file into the top 'Import String' box. Then press 'Import' in the bottom right. 
+4. Open Streamer.Bot, Click the 'Import' button on top
+5. Drag and drop the 'Streamer.Bot Install' sb file into the top 'Import String' box, or copy and paste the contents of the sb file into that window. Then press 'Import' in the bottom right. 
 
 You now can do a couple of things, make a singular automatic reward which the cards automatically popup and / or make seperate rewards for the black and white cards. 
 With the seperate rewards you can make chat fill in the white card. But be aware chat can be more offensive than the actual game!²
