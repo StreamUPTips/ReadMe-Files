@@ -59,8 +59,8 @@ Black Card Sub-Actions:
 2. On the bottom 'Reward Set Enabled State' you set the reward you created for the White Card and press Ok.
 
 White Card Sub-Actions:
-1. On the top 'Reward Set Enabled State' select your White Reward and press Ok.
-2. On the bottom 'Reward Set Enabled State' select your Black Reward and press Ok.
+1. On the top 'Reward Set Enabled State' select your White Card Reward and press Ok.
+2. On the bottom 'Reward Set Enabled State' select your Black Card Reward and press Ok.
 
 That's it! The separate way is now set up and ready to use!
 
