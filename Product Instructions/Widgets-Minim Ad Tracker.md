@@ -28,7 +28,7 @@
 1. Complete the <kbd><b><a href="https://github.com/StreamUPTips/ReadMe-Files/blob/main/StreamUP-Product-Install-Guide.md">OBS & Streamer.Bot setup for StreamUP products</b></kbd><br></a>
 *If you have already installed a StreamUP product with Streamer.Bot v0.2.3+ then you can skip this step*
 
-2. Download & install the <kbd><b><a href="https://fonts.google.com/specimen/Inter">Inter font family</b></kbd></a><br>
+2. Download & install the <kbd><b><a href="https://rsms.me/inter/download/">Inter font family</b></kbd></a><br>
 
 <br>
 
